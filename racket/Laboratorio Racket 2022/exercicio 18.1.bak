@@ -17,33 +17,4 @@
 (newline)
 (newline)
 
-(display "informe os dados pessoais da primeira pessoa(Nome , RG , CPF) :")
-(newline)
-(define N1 (read))
-(define R1 (read))
-(define C1 (read))
-
-(display "informe os dados pessoais da segunda pessoa(Nome , RG , CPF) :")
-(newline)
-(define N2 (read))
-(define R2 (read))
-(define C2 (read))
-
-(display "Nome da primeira pessoa: ")
-N1
-
-(display "CPF da primeira pessoa: ")
-C1
-
-(display "RG da primeira pessoa: ")
-R1
-
-(display "Nome da segunda pessoa: ")
-N2
-
-(display "CPF da segunda pessoa: ")
-C2
-
-(display "RG da segunda pessoa: ")
-R2
 
