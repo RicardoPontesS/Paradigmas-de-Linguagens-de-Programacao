@@ -17,26 +17,4 @@
 (newline)
 (newline)
 
-(display "Escreva tres notas (numeros menores que 10, separados por espaços a  b  c) : ")
-(newline)
-(define a (read))
-(define b (read))
-(define c (read))
-
-
-(define media
-  (lambda (x y z)
-  (/ (+ (+ x y) z) 3)
-    ))
-
-(display "A media = ")
-(media a b c)
-
-(if (> (media a b c) 5)
-    (display "Aprovado")
-    (display "Reprovado"))
-;;--------------------------------------------
-;; Defina aqui una media com notas com pesos diferentes
-;
-; (define MediaPesos ...............
 
