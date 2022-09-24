@@ -2,7 +2,7 @@
 ;; Prof. Ausberto S. Castro Vera       (ascv@uenf.br)
 ;; UENF-CCT-LCMAT - Curso de Ciencia da Computacao
 ;; Setembro - 2022
-;; Aluno: Fulano      <===========  escreva seu nome aqui
+;; Aluno: Ricardo Willian Pontes da Silva
 
 ;;;;;;;;;;;;;;;;   Escolha a linguagem R5RS
 ;;
