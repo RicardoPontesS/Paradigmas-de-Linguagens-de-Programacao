@@ -36,7 +36,7 @@
     filha(luisa,adam).
     filha(suzana,martha).
 
-
+ % REGRAS
 
     filho(F,P):-homem(F),pai(P,F).
     filho(F,M):-homem(F),mae(M,F).
