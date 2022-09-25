@@ -19,8 +19,10 @@ lugar(jardim).
 
 porta(escritorio, corredor).
 porta(cozinha, escritorio).
+porta(escritorio,cozinha).
 porta(corredor, 'sala de jantar').
 porta(cozinha, celeiro).
+porta(celeiro,cozinha).
 porta('sala de jantar', cozinha).
 
 localizacao(escrivaninha, escritorio).
@@ -41,10 +43,16 @@ comestivel(laranja).
 comestivel(biscoitos).
 comestivel(arroz).
 comestivel(uva).
-
+comestivel(verdura).
 gosto_amargo(verdura).
 
+estamos_em(sala).
 estamos_em(cozinha).
+estamos_em(escritorio).
+estamos_em(corredor).
+estamos_em('sala de jantar').
+estamos_em(celeiro).
+estamos_em(jardim).
 
 %%---------------  REGRAS --------------------
 conectar(X,Y) :- porta(X,Y).
@@ -81,7 +89,13 @@ posso_ir(Lugar):- write('Voce nao pode ir de aqui para '), write(Lugar), nl, fai
 
 goto(Lugar):- posso_ir(Lugar), mover(Lugar), observar.
 
-
-
-
+estou(Lugar):-
+estamos_em(Lugar),
+write('Voce esta na '), write(Lugar), nl,
+write('Voce pode ver:'), nl,
+lista_coisas(Lugar),
+write('Voce pode ir para:'), nl,
+lista_portas(Lugar).
+alimentos(X):- comestivel(X),localizacao(X,cozinha).
+encontrar_objeto(X):-porta(K,cozinha),localizacao(X,K).
 
