@@ -16,6 +16,9 @@ lugar(corredor).
 lugar('sala de jantar').
 lugar(celeiro).
 lugar(jardim).
+lugar(banheiro).
+lugar(quarto).
+lugar(varanda).
 
 porta(escritorio, corredor).
 porta(cozinha, escritorio).
@@ -24,6 +27,9 @@ porta(corredor, 'sala de jantar').
 porta(cozinha, celeiro).
 porta(celeiro,cozinha).
 porta('sala de jantar', cozinha).
+porta(banheiro,quarto).
+porta(quarto,corredor).
+porta(cozinha,varanda).
 
 localizacao(escrivaninha, escritorio).
 localizacao(laranja, cozinha).
@@ -38,6 +44,18 @@ localizacao(uva, cozinha).
 localizacao(biscoitos, cozinha).
 localizacao(computador, escritorio).
 localizacao(mesa,'sala de jantar').
+localizacao(escova,banheiro).
+localizacao(shampoo,banheiro).
+localizacao(espelho,banheiro).
+localizacao(toalha,banheiro).
+localizacao(cama,quarto).
+localizacao(camisa,quarto).
+localizacao(calca,quarto).
+localizacao(perfume,quarto).
+localizacao(cadeira,varanda).
+localizacao(churrasqueira,varanda).
+localizacao(rede,varanda).
+localizacao(mesa,varanda).
 
 comestivel(laranja).
 comestivel(biscoitos).
