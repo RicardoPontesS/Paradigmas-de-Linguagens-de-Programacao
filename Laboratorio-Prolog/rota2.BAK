@@ -4,7 +4,7 @@
 % Disciplina : Paradigmas de Ling. de Programacao
 % UENF-CCT-LCMAT-CC
 % Date: setembro 2022
-% Aluno: Fulano  da Silva
+% Aluno: Ricardo Willian Pontes da Silva
 %-------------------------------------------------
 
 % Fonte:   http://silveiraneto.net/2007/08/29/exemplos-de-prolog/
@@ -17,6 +17,8 @@ edge(2,5).
 edge(3,4).
 edge(3,5).
 edge(4,5).
+edge(4,6).
+edge(6,5).
 
 connected(X,Y) :- edge(X,Y) ; edge(Y,X).
 
