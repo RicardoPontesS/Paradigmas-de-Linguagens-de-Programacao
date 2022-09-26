@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.16)  26 SEP 2022 16:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.16)  26 SEP 2022 17:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1357,32 +1357,36 @@ File: Pictures//capitulo.jpg Graphic file (type jpg)
 <use Pictures//capitulo.jpg>
 Package pdftex.def Info: Pictures//capitulo.jpg  used on input line 8.
 (pdftex.def)             Requested size: 597.50787pt x 233.04015pt.
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 3
-5.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
+7.
 (C:\Users\ricar\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 35.
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 27.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
 [9 <./Pictures//capitulo.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 57--60
+Underfull \hbox (badness 10000) in paragraph at lines 49--52
 
  []
 
-[10]) (RicardoWillianPontesdaSilva-Python.bbl
-(RicardoWillianPontesdaSilva-Python.brf)
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10])
+(RicardoWillianPontesdaSilva-Python.bbl (RicardoWillianPontesdaSilva-Python.brf
+)
 \tf@brf=\write6
 \openout6 = `RicardoWillianPontesdaSilva-Python.brf'.
 
  [11] [12
 
 ]
-<Pictures//Bibliografia.png, id=219, 578.16pt x 225.4824pt>
+<Pictures//Bibliografia.png, id=213, 578.16pt x 225.4824pt>
 File: Pictures//Bibliografia.png Graphic file (type png)
 <use Pictures//Bibliografia.png>
 Package pdftex.def Info: Pictures//Bibliografia.png  used on input line 1.
@@ -1401,16 +1405,16 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 ] (RicardoWillianPontesdaSilva-Python.aux)
 Package rerunfilecheck Info: File `RicardoWillianPontesdaSilva-Python.brf' has 
 not changed.
-(rerunfilecheck)             Checksum: A80FC30435D23719189D8D9FD4015877;752.
+(rerunfilecheck)             Checksum: C59C963F3485CD56FAE7580B7A0A2DDB;616.
  ) 
 Here is how much of TeX's memory you used:
- 33222 strings out of 478338
- 648884 string characters out of 2836700
- 1270169 words of memory out of 3000000
- 50667 multiletter control sequences out of 15000+600000
- 556263 words of font info for 281 fonts, out of 8000000 for 9000
+ 33232 strings out of 478338
+ 649019 string characters out of 2836700
+ 1273169 words of memory out of 3000000
+ 50670 multiletter control sequences out of 15000+600000
+ 556618 words of font info for 285 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 89i,13n,92p,1033b,1969s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 89i,12n,92p,1033b,1969s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <C
 :\Users\ricar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.
 pk><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
@@ -1420,10 +1424,10 @@ antgar/uagk8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/type1/urw
 /times/utmb8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/type1/urw
 /times/utmr8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/type1/urw
 /times/utmri8a.pfb>
-Output written on RicardoWillianPontesdaSilva-Python.pdf (15 pages, 1765345 byt
+Output written on RicardoWillianPontesdaSilva-Python.pdf (15 pages, 1764962 byt
 es).
 PDF statistics:
- 430 PDF objects out of 1000 (max. 8388607)
- 103 named destinations out of 1000 (max. 500000)
+ 425 PDF objects out of 1000 (max. 8388607)
+ 104 named destinations out of 1000 (max. 500000)
  98027 words of extra memory for PDF output out of 106986 (max. 10000000)
 

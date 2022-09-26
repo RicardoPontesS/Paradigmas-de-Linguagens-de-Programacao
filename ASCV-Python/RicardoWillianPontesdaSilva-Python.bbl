@@ -22,6 +22,11 @@ John~V. Guttag.
 Josue Labaki.
 \newblock {\em Introducao a Python Modulo A}.
 
+\bibitem[Man18]{Manzano2018}
+Jos{\'e} Augusto~NG Manzano.
+\newblock {\em Introdu{\c{c}}{\~a}o {\`a} linguagem Python}.
+\newblock Novatec Editora, 2018.
+
 \bibitem[McK19]{McKinney2019}
 Wes McKinney.
 \newblock {\em Python para analise de dados}.
