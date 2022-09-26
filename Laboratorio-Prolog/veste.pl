@@ -43,8 +43,6 @@ veste(X, Cor1, Cor2):- pessoa(X), cor(Cor1), cor(Cor2), tem_uma_cor(X,Cor1),
          ((Cor1 =  amarelo) ,                      /*,e ... ocontrário  */
          (Cor2  =  vermelho))
 ).
-
-
 ache_tudo :-
 veste(X,C1,C2),
 write(X),
@@ -52,8 +50,6 @@ write(' veste as cores '), write(C1),
 write('.... e ....'), write(C2),
 nl,
 fail.
-
-
 
 coresVestimentas :- veste(X,C1,C2), write(X), write(' ====> '), write(C1), write('.. e ..'), write(C2), nl,
           fail.
