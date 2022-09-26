@@ -11,6 +11,13 @@ Rog{\'e}rio~Oliveira da~Silva and Igor Rodrigues~Sousa Silva.
 \newblock {\em Linguagem de Programacao Python}, volume~10.
 \newblock 2019.
 
+\bibitem[Gut15]{Guttag2015}
+John~V. Guttag.
+\newblock {\em Introdu{\c{c}}{\~a}o {\`a} Computa{\c{c}}{\~a}o e
+  Programa{\c{c}}{\~a}o Usando Python}.
+\newblock Infopress Nova M{\'\i}dia, S{\~a}o Paulo, edi{\c{c}}{\~a}o revista e
+  ampliada edition, 2015.
+
 \bibitem[Lab]{Labaki}
 Josue Labaki.
 \newblock {\em Introducao a Python Modulo A}.
@@ -27,15 +34,36 @@ Ljubomir Perkovic.
 \newblock LTC Livros T{\'e}cnicos e Cient{\'\i}ficos Editora Ltda, Rio de
   Janeiro, 2016.
 
+\bibitem[RH04]{roy04}
+Peter~Van Roy and Seif Haridi.
+\newblock {\em Concepts, Techniques and Models of Computer Programming}.
+\newblock The MIT Press, Cambridge, 2004.
+
+\bibitem[Seb11]{seb11}
+Robert~W. Sebesta.
+\newblock {\em Conceitos de Linguagens de Programa{\c{c}}{\~a}o}.
+\newblock Bookman, Porto Alegre, 2011.
+
 \bibitem[Sev15]{Severance2015}
 C.~Severance.
 \newblock {Guido van Rossum: The Early Years of Python}.
 \newblock {\em Computer}, 48(2):7--9, Feb 2015.
+
+\bibitem[Sum13]{Summerfield2013}
+Mark Summerfield.
+\newblock {\em Programa{\c{c}}{\~a}o em Python 3 - Uma Introdu{\c{c}}{\~a}o
+  Completa {\`a} Linguagem Python}.
+\newblock Biblioteca do Programador. Alta Books Editora, Rio de Janeiro, 2013.
 
 \bibitem[VRDJ95]{VanRossum1995}
 Guido Van~Rossum and Fred~L Drake~Jr.
 \newblock {\em Python tutorial}.
 \newblock Centrum voor Wiskunde en Informatica Amsterdam, The Netherlands,
   Scotts Valley, CA, 1995.
+
+\bibitem[Wat90]{wat90}
+David~Anthony Watt.
+\newblock {\em Programming Language Concepts and Paradigms}.
+\newblock Prentice Hall International, London, 1990.
 
 \end{thebibliography}
