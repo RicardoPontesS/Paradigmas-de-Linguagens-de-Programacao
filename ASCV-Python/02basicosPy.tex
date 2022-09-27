@@ -142,11 +142,23 @@ A linguagem Python também conta com uma funcionalidade de retorno do tipo de um
      Os itens de uma tupla são classificados como, ordenados, imutáveis e permissivos a elementos duplos além de serem indexados, ou seja, cada posição é referenciada por um índice que se inicia na posição [0], [1] e etc. Abaixo veremos um exemplo da utilização das tuplas.
      \begin{lstlisting}
      	>>> # Uso de Tuplas na linguagem Python
-     	>>> ExemploTupla = ("apple", "banana", "cherry", "apple",
-     	 "cherry")
+     	>>> ExemploTupla = ("uva", "banana", "mel", 
+     	"apple","cherry")
      	>>> print(ExemploTupla)
      \end{lstlisting}
-    
+ 
+    As tuplas também podem receber outros tipos de dados primitivos como os que já foram citados anteriormente, como, \textit{int} e \textit{float}. Também é possível saber quantos elementos estão contidos em uma Tupla. Abaixo será expresso em um trecho de código tais utilizações.
+     
+    \begin{lstlisting}
+    	>>> # Uso de Tuplas com diversos tipos primitivos na
+    	 linguagem Python
+    	>>> tupla1 = ("uva", "banana", "mel")
+    	>>> tupla2 = (10, -2, 8, 1, 3)
+    	>>> tupla3 = (True, False, False)
+    	>>> tupla4 = ("Linguagem Python", 2.4, True, 40, "Oi")
+    	>>> print(len(tupla4))
+    	
+    \end{lstlisting} 
      
      %%%........................
             \subsection{Tipos Conjunto(set)}

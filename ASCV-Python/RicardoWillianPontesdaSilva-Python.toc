@@ -23,6 +23,6 @@
 \contentsline {section}{\numberline {2.5}M\'{o}dulos e pacotes}{12}{section.2.5}%
 \contentsline {subsection}{\numberline {2.5.1}M\'{o}dulos}{12}{subsection.2.5.1}%
 \contentsline {subsection}{\numberline {2.5.2}Pacotes}{12}{subsection.2.5.2}%
-\contentsline {chapter}{\textcolor {ocre}{Bibliografia}}{14}{chapter*.2}%
-\contentsline {chapter}{\textcolor {ocre}{Index}}{15}{section*.3}%
+\contentsline {chapter}{\textcolor {ocre}{Bibliografia}}{16}{chapter*.2}%
+\contentsline {chapter}{\textcolor {ocre}{Index}}{17}{section*.3}%
 \contentsfinish 
