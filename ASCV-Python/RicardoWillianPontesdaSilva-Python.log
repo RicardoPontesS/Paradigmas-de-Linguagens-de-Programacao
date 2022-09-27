@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.16)  27 SEP 2022 13:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.16)  27 SEP 2022 13:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1318,7 +1318,7 @@ LaTeX Font Info:    Font shape `T1/pag/b/n' in size <10.95> not available
  <./Pictures//sumario01.jpg>]
 [4] (01introducPy.tex
 Cap\'{\i }tulo 1.
-<Pictures//capitulo01.jpg, id=105, 1204.5pt x 469.755pt>
+<Pictures//capitulo01.jpg, id=108, 1204.5pt x 469.755pt>
 File: Pictures//capitulo01.jpg Graphic file (type jpg)
 <use Pictures//capitulo01.jpg>
 Package pdftex.def Info: Pictures//capitulo01.jpg  used on input line 9.
@@ -1327,7 +1327,7 @@ Package pdftex.def Info: Pictures//capitulo01.jpg  used on input line 9.
 
 
  <./Pictures//capitulo01.jpg>]
-<Pictures//python-logo-master-v3-TM.png, id=116, 611.75027pt x 206.63113pt>
+<Pictures//python-logo-master-v3-TM.png, id=119, 611.75027pt x 206.63113pt>
 File: Pictures//python-logo-master-v3-TM.png Graphic file (type png)
 <use Pictures//python-logo-master-v3-TM.png>
 Package pdftex.def Info: Pictures//python-logo-master-v3-TM.png  used on input 
@@ -1351,7 +1351,7 @@ Package fancyhdr Warning: \headheight is too small (14.5pt):
 
 ]
 Cap\'{\i }tulo 2.
-<Pictures//capitulo.jpg, id=141, 903.375pt x 352.31625pt>
+<Pictures//capitulo.jpg, id=144, 903.375pt x 352.31625pt>
 File: Pictures//capitulo.jpg Graphic file (type jpg)
 <use Pictures//capitulo.jpg>
 Package pdftex.def Info: Pictures//capitulo.jpg  used on input line 8.
@@ -1379,108 +1379,22 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
+Overfull \hbox (0.98495pt too wide) in paragraph at lines 52--53
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
 
-! LaTeX Error: Invalid UTF-8 byte sequence (�\expandafter).
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.39 	>>> x = int(3) O valor de x será 
-                                        3
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! LaTeX Error: Invalid UTF-8 byte "A1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.39 	>>> x = int(3) O valor de x será 
-                                        3
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! LaTeX Error: Invalid UTF-8 byte sequence (�\expandafter).
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.40 	>>> y = int(3.5) O valor de y será 
-                                          3
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! LaTeX Error: Invalid UTF-8 byte "A1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.40 	>>> y = int(3.5) O valor de y será 
-                                          3
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! LaTeX Error: Invalid UTF-8 byte sequence (�\expandafter).
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.41 	>>> z = int("3") O valor de z será 
-                                          3
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! LaTeX Error: Invalid UTF-8 byte "A1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.41 	>>> z = int("3") O valor de z será 
-                                          3
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 70--73
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 96--99
 
  []
 
-[10] [11]) (RicardoWillianPontesdaSilva-Python.bbl
+[11]) (RicardoWillianPontesdaSilva-Python.bbl
 (RicardoWillianPontesdaSilva-Python.brf)
 \tf@brf=\write6
 \openout6 = `RicardoWillianPontesdaSilva-Python.brf'.
 
  [12]
-<Pictures//Bibliografia.png, id=231, 578.16pt x 225.4824pt>
+<Pictures//Bibliografia.png, id=251, 578.16pt x 225.4824pt>
 File: Pictures//Bibliografia.png Graphic file (type png)
 <use Pictures//Bibliografia.png>
 Package pdftex.def Info: Pictures//Bibliografia.png  used on input line 1.
@@ -1497,13 +1411,13 @@ not changed.
 (rerunfilecheck)             Checksum: 55F0A78B3B40A3C92C90666EEC41ACFD;663.
  ) 
 Here is how much of TeX's memory you used:
- 33278 strings out of 478338
- 649576 string characters out of 2836700
- 1284169 words of memory out of 3000000
- 50684 multiletter control sequences out of 15000+600000
- 560599 words of font info for 302 fonts, out of 8000000 for 9000
+ 33311 strings out of 478338
+ 649974 string characters out of 2836700
+ 1287169 words of memory out of 3000000
+ 50696 multiletter control sequences out of 15000+600000
+ 560824 words of font info for 304 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 89i,13n,92p,1033b,2001s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 89i,13n,92p,1033b,1886s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <C
 :\Users\ricar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.
 pk><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
@@ -1514,10 +1428,10 @@ e1/urw/avantgar/uagk8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmb8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmr8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmri8a.pfb>
-Output written on RicardoWillianPontesdaSilva-Python.pdf (15 pages, 1781662 byt
+Output written on RicardoWillianPontesdaSilva-Python.pdf (15 pages, 1785955 byt
 es).
 PDF statistics:
- 454 PDF objects out of 1000 (max. 8388607)
- 114 named destinations out of 1000 (max. 500000)
- 100083 words of extra memory for PDF output out of 106986 (max. 10000000)
+ 481 PDF objects out of 1000 (max. 8388607)
+ 132 named destinations out of 1000 (max. 500000)
+ 100091 words of extra memory for PDF output out of 106986 (max. 10000000)
 
