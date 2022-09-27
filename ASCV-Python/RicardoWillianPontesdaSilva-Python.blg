@@ -10,45 +10,45 @@ Warning--empty publisher in Silva2019
 Warning--can't use both author and editor fields in Labaki
 Warning--empty publisher in Labaki
 Warning--empty year in Labaki
-You've used 13 entries,
+You've used 11 entries,
             2543 wiz_defined-function locations,
-            641 strings with 6193 characters,
-and the built_in function-call counts, 3794 in all, are:
-= -- 338
-> -- 137
-< -- 11
-+ -- 38
-- -- 38
-* -- 228
-:= -- 650
-add.period$ -- 39
-call.type$ -- 13
-change.case$ -- 58
-chr.to.int$ -- 13
-cite$ -- 18
-duplicate$ -- 202
-empty$ -- 322
-format.name$ -- 61
-if$ -- 767
+            627 strings with 6093 characters,
+and the built_in function-call counts, 3186 in all, are:
+= -- 283
+> -- 110
+< -- 10
++ -- 30
+- -- 30
+* -- 193
+:= -- 543
+add.period$ -- 33
+call.type$ -- 11
+change.case$ -- 49
+chr.to.int$ -- 11
+cite$ -- 16
+duplicate$ -- 171
+empty$ -- 272
+format.name$ -- 50
+if$ -- 643
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 24
-newline$ -- 67
-num.names$ -- 39
-pop$ -- 100
+missing$ -- 20
+newline$ -- 57
+num.names$ -- 33
+pop$ -- 85
 preamble$ -- 1
-purify$ -- 81
+purify$ -- 68
 quote$ -- 0
-skip$ -- 136
+skip$ -- 115
 stack$ -- 0
-substring$ -- 100
-swap$ -- 16
-text.length$ -- 11
-text.prefix$ -- 10
+substring$ -- 86
+swap$ -- 14
+text.length$ -- 10
+text.prefix$ -- 9
 top$ -- 0
-type$ -- 60
+type$ -- 52
 warning$ -- 5
-while$ -- 30
-width$ -- 15
-write$ -- 165
+while$ -- 25
+width$ -- 12
+write$ -- 138
 (There were 5 warnings)

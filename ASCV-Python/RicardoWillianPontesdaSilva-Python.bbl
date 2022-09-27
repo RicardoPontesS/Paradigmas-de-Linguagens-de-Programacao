@@ -32,22 +32,19 @@ Wes McKinney.
 \newblock {\em Python para analise de dados}.
 \newblock Novatec Editora, May 2019.
 
+\bibitem[Men16]{Menezes2016}
+Nilo Ney~Coutinho Menezes.
+\newblock {\em Introdu{\c{c}}{\~a}o {\`a} programa{\c{c}}{\~a}o com
+  Python--2{\textordfeminine} edi{\c{c}}{\~a}o: Algoritmos e l{\'o}gica de
+  programa{\c{c}}{\~a}o para iniciantes}.
+\newblock Novatec Editora, 2016.
+
 \bibitem[Per16]{Perkovic2016}
 Ljubomir Perkovic.
 \newblock {\em Introdu{\c{c}}{\~a}o {\`a} Computa{\c{c}}{\~a}o usando Python:
   un foco no desenvolvimento de Aplica{\c{c}}{\~o}es}.
 \newblock LTC Livros T{\'e}cnicos e Cient{\'\i}ficos Editora Ltda, Rio de
   Janeiro, 2016.
-
-\bibitem[RH04]{roy04}
-Peter~Van Roy and Seif Haridi.
-\newblock {\em Concepts, Techniques and Models of Computer Programming}.
-\newblock The MIT Press, Cambridge, 2004.
-
-\bibitem[Seb11]{seb11}
-Robert~W. Sebesta.
-\newblock {\em Conceitos de Linguagens de Programa{\c{c}}{\~a}o}.
-\newblock Bookman, Porto Alegre, 2011.
 
 \bibitem[Sev15]{Severance2015}
 C.~Severance.
@@ -65,10 +62,5 @@ Guido Van~Rossum and Fred~L Drake~Jr.
 \newblock {\em Python tutorial}.
 \newblock Centrum voor Wiskunde en Informatica Amsterdam, The Netherlands,
   Scotts Valley, CA, 1995.
-
-\bibitem[Wat90]{wat90}
-David~Anthony Watt.
-\newblock {\em Programming Language Concepts and Paradigms}.
-\newblock Prentice Hall International, London, 1990.
 
 \end{thebibliography}
