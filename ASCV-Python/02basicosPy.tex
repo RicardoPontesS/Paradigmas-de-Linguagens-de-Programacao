@@ -26,12 +26,20 @@ Dizemos que um valor atribuído a uma variável é do tipo \textit{int} se e som
 
 \begin{lstlisting}
 	>>> #atribuicao simples em Python
-	>>> int numero = 2
-	>>> int numero =+ 4
+	>>> numero = 2
+	>>> numero += 4
 	O valor final da vari\'{a}vel numero ser\'{a} 6, 
 	uma vez que a mesma recebeu duas atribuicoes.
 \end{lstlisting} 
 
+Assim como em outras linguagens de programação, é possível fazer mudança de tipos de um valor já existente de uma variável para outra. Por exemplo, utilizar do chamado \textit{cast} para atribuir a uma variável do tipo \textit{int}, um valor que como já visto anteriormente, não se encaixaria nesta categoria. Abaixo será apresentado exemplos de \textit{casting} na linguagem Python.
+   
+\begin{lstlisting}
+	>>> #atribuicao com casting na linguagem Python
+	>>> x = int(3) O valor de x será 3  
+	>>> y = int(3.5) O valor de y será 3 
+	>>> z = int("3") O valor de z será 3 
+\end{lstlisting} 
 
      %%%........................
             \subsection{String}
