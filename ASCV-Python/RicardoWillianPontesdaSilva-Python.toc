@@ -14,15 +14,15 @@
 \contentsline {subsection}{\numberline {2.2.3}String}{10}{subsection.2.2.3}%
 \contentsline {section}{\numberline {2.3}Tipos de Dados de Cole\c {c}\~{a}o}{12}{section.2.3}%
 \contentsline {subsection}{\numberline {2.3.1}Tipos Sequenciais (tuplas)}{12}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}Tipos Conjunto(set)}{12}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}Tipos Mapeamento(dicionário)}{12}{subsection.2.3.3}%
-\contentsline {section}{\numberline {2.4}Estrutura de Controle e Fun\c {c}\~{o}es}{12}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}O comando IF}{12}{subsection.2.4.1}%
-\contentsline {subsection}{\numberline {2.4.2}La\c {c}o FOR}{12}{subsection.2.4.2}%
-\contentsline {subsection}{\numberline {2.4.3}La\c {c}o WHILE}{12}{subsection.2.4.3}%
-\contentsline {section}{\numberline {2.5}M\'{o}dulos e pacotes}{12}{section.2.5}%
-\contentsline {subsection}{\numberline {2.5.1}M\'{o}dulos}{12}{subsection.2.5.1}%
-\contentsline {subsection}{\numberline {2.5.2}Pacotes}{12}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.3.2}Tipos Conjunto (set)}{12}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Tipos Mapeamento(dicionário)}{13}{subsection.2.3.3}%
+\contentsline {section}{\numberline {2.4}Estrutura de Controle e Fun\c {c}\~{o}es}{13}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}O comando IF}{13}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}La\c {c}o FOR}{13}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}La\c {c}o WHILE}{13}{subsection.2.4.3}%
+\contentsline {section}{\numberline {2.5}M\'{o}dulos e pacotes}{13}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}M\'{o}dulos}{13}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Pacotes}{13}{subsection.2.5.2}%
 \contentsline {chapter}{\textcolor {ocre}{Bibliografia}}{16}{chapter*.2}%
 \contentsline {chapter}{\textcolor {ocre}{Index}}{17}{section*.3}%
 \contentsfinish 

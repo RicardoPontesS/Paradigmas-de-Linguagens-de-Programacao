@@ -143,7 +143,7 @@ A linguagem Python também conta com uma funcionalidade de retorno do tipo de um
      \begin{lstlisting}
      	>>> # Uso de Tuplas na linguagem Python
      	>>> ExemploTupla = ("uva", "banana", "mel", 
-     	"apple","cherry")
+     	"uva")
      	>>> print(ExemploTupla)
      \end{lstlisting}
  
@@ -151,7 +151,7 @@ A linguagem Python também conta com uma funcionalidade de retorno do tipo de um
      
     \begin{lstlisting}
     	>>> # Uso de Tuplas com diversos tipos primitivos na
-    	 linguagem Python
+            #linguagem Python
     	>>> tupla1 = ("uva", "banana", "mel")
     	>>> tupla2 = (10, -2, 8, 1, 3)
     	>>> tupla3 = (True, False, False)
@@ -161,10 +161,22 @@ A linguagem Python também conta com uma funcionalidade de retorno do tipo de um
     \end{lstlisting} 
      
      %%%........................
-            \subsection{Tipos Conjunto(set)}
+            \subsection{Tipos Conjunto (set)}
      %%%........................
 
+Assim como as Tuplas, utilizamos os chamados \textit{set} para armazenar vários itens em um única variável. Porém, o grande diferencial do tipo de dados \textit{set} é por ser uma coleção não ordenada, imutável e não indexada, vale destacar também que o tipo de dados \textit{set} não aceita dados duplicados. Abaixo será ilustrado em um trecho de código a utilização básica do comando \textit{set}, sendo armazenado dados homogêneos e heterogêneos.
+    
+  \begin{lstlisting}
+  	>>> # Uso de sets com diversos tipos primitivos na
+        #linguagem Python
+  	set1 = {"uva", "banana", "mel"}
+  	set2 = {1, 5, 7, 9, 3}
+  	set3 = {True, False, False}
+  	set4 = {"Linguagem Python", 2.4, False, 40, "Ola"}
+  	
+  \end{lstlisting} 
 
+Algumas particularidades do tipo de dado de coleção \textit{set} é que como já citado anteriormente, caso já criado, não é possível alterar seus dados, porém é possível criar novos itens e também excluir dados existentes. Vale a ressalva também que o \textit{set} não é referenciado por um índice, logo é possível que os itens apareçam em uma ordem diferente toda vez que utilizados. 
      %%%........................
             \subsection{Tipos Mapeamento(dicionário)}
      %%%........................
