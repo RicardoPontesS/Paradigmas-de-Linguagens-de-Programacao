@@ -132,7 +132,7 @@ A linguagem Python também conta com uma funcionalidade de retorno do tipo de um
      %%%%%%%%=================================
     \section{Tipos de Dados de Cole\c{c}\~{a}o}
     %%%%%%%%=================================
-
+Como visto antes, variáveis só poderiam alocar em seu espaço de memória um tipo primitivo apenas, porém, neste tópico será apresentado um conceito de dados de coleção onde será possível armazenar N itens dentro de uma única variável.
 
      %%%........................
             \subsection{Tipos Sequenciais (tuplas)}
@@ -178,10 +178,20 @@ Assim como as Tuplas, utilizamos os chamados \textit{set} para armazenar vários
 
 Algumas particularidades do tipo de dado de coleção \textit{set} é que como já citado anteriormente, caso já criado, não é possível alterar seus dados, porém é possível criar novos itens e também excluir dados existentes. Vale a ressalva também que o \textit{set} não é referenciado por um índice, logo é possível que os itens apareçam em uma ordem diferente toda vez que utilizados. 
      %%%........................
-            \subsection{Tipos Mapeamento(dicionário)}
+            \subsection{Tipos Mapeamento (dicionário)}
      %%%........................
-
-
+Por fim, chegamos no tipo de dado de coleção dicionário, que se caracteriza por ser uma coleção de dados ordenada, mutável e que não permite duplicatas.Assim como os demais, o dicionário é permissivo que seja alocados diferentes tipos de dados primitivos em seu corpo de código. A estrutura de um dicionário é delimitada por chaves que tendem a armazenar os dados inseridos, como mostrado no trecho abaixo.
+ \begin{lstlisting}
+	>>> # Uso de dicionarios com diversos tipos primitivos 
+	# na linguagem Python
+	dicionario = {
+	"marca": "Ford",
+	"eletrico": False,
+	"ano": 1964,
+	"cor": ["vermelho", "branco", "azul"]
+	}
+	
+\end{lstlisting} 
 
 
     %%%%%%%%=================================
