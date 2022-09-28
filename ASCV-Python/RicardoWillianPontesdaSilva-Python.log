@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.16)  27 SEP 2022 23:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.16)  27 SEP 2022 23:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1416,11 +1416,11 @@ not changed.
 (rerunfilecheck)             Checksum: 55F0A78B3B40A3C92C90666EEC41ACFD;663.
  ) 
 Here is how much of TeX's memory you used:
- 33357 strings out of 478338
- 650602 string characters out of 2836700
+ 33360 strings out of 478338
+ 650629 string characters out of 2836700
  1287169 words of memory out of 3000000
  50708 multiletter control sequences out of 15000+600000
- 561049 words of font info for 306 fonts, out of 8000000 for 9000
+ 561179 words of font info for 308 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,13n,92p,1033b,1886s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <C
@@ -1433,7 +1433,7 @@ e1/urw/avantgar/uagk8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmb8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmr8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmri8a.pfb>
-Output written on RicardoWillianPontesdaSilva-Python.pdf (17 pages, 1797519 byt
+Output written on RicardoWillianPontesdaSilva-Python.pdf (17 pages, 1797852 byt
 es).
 PDF statistics:
  533 PDF objects out of 1000 (max. 8388607)
