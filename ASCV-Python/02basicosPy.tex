@@ -201,14 +201,25 @@ Assim como em diversas outras linguagens de programação, o Python também cont
      %%%........................
             \subsection{O comando IF}
      %%%........................
-O comando \textit{if} possui a sua estrutura como sendo uma condição seguida logo após uma declaração. Veremos um exemplo básico de sua utilização na linguagem Python.
+O comando \textit{if} possui a sua estrutura como sendo uma condição logo em seguida, uma declaração. Veremos um exemplo básico de sua utilização na linguagem Python.
 \begin{lstlisting}
 	>>> # Uso basico de um if na linguagem Python
 	if 30 > 10:
 		print("30 e maior que 10")
 	
 \end{lstlisting} 
+Também é possível encadear N \textit{if} para executar trechos de código. Vale destacar também que na linguagem Python, a identação é de extrema importância, uma vez que é desta forma que o interpretador do Python compreende sua estrutura. Abaixo será apresentado uma utilização prática do chamado \textit{elif}. 
 
+\begin{lstlisting}
+	>>> # Uso basico de um if encadeado na linguagem Python
+a = True
+b = False
+if a == b:
+	print(" A e igual a B")
+elif a != b:
+	print("A nao e igual a B")
+	
+\end{lstlisting} 
 
       %%%........................
             \subsection{La\c{c}o FOR}
