@@ -264,39 +264,28 @@ A linguagem Python possui diversas ferramentas com o objetivo de auxiliar na con
        %%%........................
             \subsection{M\'{o}dulos}
      %%%........................
-Os módulos na linguagem Python são programas contendo todos os conceitos anteriormente vistos e também podendo haver a arquitetura orientada a objetos, como classes a objetos. Estes pequenos programas tendem a fornecer alguma funcionalidade disponível  
+Os módulos na linguagem Python são programas contendo todos os conceitos anteriormente vistos e também podendo haver a arquitetura orientada a objetos, como classes a objetos. Estes pequenos programas tendem a fornecer alguma funcionalidade que ficará disponível sempre que for requerida. \\
+A linguagem Python também permite que seja criados módulos do zero e assim utilizados ao decorrer da necessidade. Abaixo veremos uma pequena demostração de como criar módulos e utiliza-los.
+\begin{lstlisting}
+	>>> # Cricao de modulos na linguagem Python
+	def greeting(nome):
+	print("Oi, " + nome)
+	# Para utilizar um modulo e preciso salvar-lo como a 
+	# extensao .py  
+\end{lstlisting} 
 
-
+Para a utilização de um módulo já existente basta invocá-lo com a palavra reservada \textit{import} seguida do nome salvo do módulo. Abaixo será apresentado como ocorre este evento na prática utilizando a linguagem Python.
+\begin{lstlisting}
+	>>> # Utilizacao de modulos na linguagem Python
+	import olaModulo
+	olaModulo.greeting("Ausberto")
+\end{lstlisting} 
           %%%........................
             \subsection{Pacotes}
      %%%........................
 
 
-
-
-
-
-    C\'{o}digo fonte para a linguagem Python:
-    \begin{lstlisting}
-    number_1 = int(input('Ingresse o primeiro numero: '))
-    number_2 = int(input('Ingresse o segundo numero: '))
-
-    # Soma
-    print('{} + {} = '.format(number_1, number_2))
-    print(number_1 + number_2)
-
-    # Substra\c{c}\~{a}o
-    print('{} - {} = '.format(number_1, number_2))
-    print(number_1 - number_2)
-
-    # Multiplica\c{c}\~{a}o
-    print('{} * {} = '.format(number_1, number_2))
-    print(number_1 * number_2)
-
-    # Divis\~{a}o
-    print('{} / {} = '.format(number_1, number_2))
-    print(number_1 / number_2)
-    \end{lstlisting}
+    
 
 
 

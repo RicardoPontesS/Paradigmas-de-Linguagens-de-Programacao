@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.16)  28 SEP 2022 09:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.16)  28 SEP 2022 09:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1407,7 +1407,7 @@ Overfull \hbox (0.98495pt too wide) in paragraph at lines 214--215
  [15] [16
 
 ]
-<Pictures//Bibliografia.png, id=329, 578.16pt x 225.4824pt>
+<Pictures//Bibliografia.png, id=320, 578.16pt x 225.4824pt>
 File: Pictures//Bibliografia.png Graphic file (type png)
 <use Pictures//Bibliografia.png>
 Package pdftex.def Info: Pictures//Bibliografia.png  used on input line 1.
@@ -1422,11 +1422,11 @@ not changed.
 (rerunfilecheck)             Checksum: 55F0A78B3B40A3C92C90666EEC41ACFD;663.
  ) 
 Here is how much of TeX's memory you used:
- 33413 strings out of 478338
- 651293 string characters out of 2836700
+ 33402 strings out of 478338
+ 651133 string characters out of 2836700
  1287169 words of memory out of 3000000
- 50712 multiletter control sequences out of 15000+600000
- 561924 words of font info for 318 fonts, out of 8000000 for 9000
+ 50713 multiletter control sequences out of 15000+600000
+ 561794 words of font info for 316 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,13n,92p,1033b,1886s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <C
@@ -1439,10 +1439,10 @@ e1/urw/avantgar/uagk8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmb8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmr8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmri8a.pfb>
-Output written on RicardoWillianPontesdaSilva-Python.pdf (19 pages, 1810979 byt
+Output written on RicardoWillianPontesdaSilva-Python.pdf (19 pages, 1808661 byt
 es).
 PDF statistics:
- 586 PDF objects out of 1000 (max. 8388607)
- 197 named destinations out of 1000 (max. 500000)
+ 570 PDF objects out of 1000 (max. 8388607)
+ 188 named destinations out of 1000 (max. 500000)
  100091 words of extra memory for PDF output out of 106986 (max. 10000000)
 
