@@ -16,7 +16,7 @@
 \contentsline {subsection}{\numberline {2.3.1}Tipos Sequenciais (tuplas)}{12}{subsection.2.3.1}%
 \contentsline {subsection}{\numberline {2.3.2}Tipos Conjunto (set)}{12}{subsection.2.3.2}%
 \contentsline {subsection}{\numberline {2.3.3}Tipos Mapeamento (dicionário)}{13}{subsection.2.3.3}%
-\contentsline {section}{\numberline {2.4}Estrutura de Controle e Fun\c {c}\~{o}es}{13}{section.2.4}%
+\contentsline {section}{\numberline {2.4}Estrutura de Controle e Estruturas de repetição}{13}{section.2.4}%
 \contentsline {subsection}{\numberline {2.4.1}O comando IF}{13}{subsection.2.4.1}%
 \contentsline {subsection}{\numberline {2.4.2}La\c {c}o FOR}{13}{subsection.2.4.2}%
 \contentsline {subsection}{\numberline {2.4.3}La\c {c}o WHILE}{13}{subsection.2.4.3}%
