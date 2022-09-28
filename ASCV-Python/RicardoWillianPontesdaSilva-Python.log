@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.16)  28 SEP 2022 09:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.16)  28 SEP 2022 09:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1422,13 +1422,13 @@ not changed.
 (rerunfilecheck)             Checksum: 55F0A78B3B40A3C92C90666EEC41ACFD;663.
  ) 
 Here is how much of TeX's memory you used:
- 33410 strings out of 478338
- 651266 string characters out of 2836700
+ 33413 strings out of 478338
+ 651293 string characters out of 2836700
  1287169 words of memory out of 3000000
  50712 multiletter control sequences out of 15000+600000
- 561794 words of font info for 316 fonts, out of 8000000 for 9000
+ 561924 words of font info for 318 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 89i,13n,92p,1033b,1896s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 89i,13n,92p,1033b,1886s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <C
 :\Users\ricar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.
 pk><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
@@ -1439,7 +1439,7 @@ e1/urw/avantgar/uagk8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmb8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmr8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmri8a.pfb>
-Output written on RicardoWillianPontesdaSilva-Python.pdf (19 pages, 1810716 byt
+Output written on RicardoWillianPontesdaSilva-Python.pdf (19 pages, 1810979 byt
 es).
 PDF statistics:
  586 PDF objects out of 1000 (max. 8388607)
