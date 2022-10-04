@@ -8,7 +8,7 @@
 
 clc; clear;      
 mprintf('\n UENF-CCT-LCMAT-Ciencia da Computacao\n');
-printf(" Aluno: Fulano de tal - Campos %s\n\n", date());
+printf(" Aluno: Ricardo Willian Pontes da Silva- Campos %s\n\n", date());
 
 v1 = 3:10 
 v2 = 23:2:31
