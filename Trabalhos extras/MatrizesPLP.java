@@ -1,16 +1,16 @@
 /*
 Autor: Ricardo Willian Pontes da Silva
 E-mail: 00119110450@pq.uenf.br
-Data de criaÁ„o: 28/09/22 
-Data de mudanÁa: --/--/--
+Data de cria√ß√£o: 28/09/22 
+Data de mudan√ßa: --/--/--
 
 */
 
 package exercicioPLP;
 
-import java.util.Random;
+importar   java . √∫til . Aleat√≥rio ;
 
-public class MatrizesPLP {
+public     class   MatrizesPLP {
 
 	public static void main(String[] args) {
 		int[][] matriz1 = new int[4][4];
@@ -55,7 +55,7 @@ public class MatrizesPLP {
 			System.out.println("");
 		}
 		
-		System.out.println("-------------MultiplicaÁ„o das matrizes:-------------");
+		System.out.println("-------------Multiplica√ß√£o das matrizes:-------------");
 		for (int i = 0; i < matriz1.length; i++) {
             for (int j = 0; j < matriz2.length; j++) {
                 for (int k = 0; k < matriz2.length; k++)
