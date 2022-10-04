@@ -10,7 +10,7 @@ clc;        // limpa a Janela de comandos
 clear;      //  remove (limpa) as variaveis do ambiente (memoria)
 
 mprintf('\n UENF-CCT-LCMAT-Ciencia da Computacao\n');
-printf(' Aluno: Fulano de tal\n\n');
+printf(' Aluno: Ricardo Willian Pontes da Silva\n\n');
 
 // Atribuicao23245
 
@@ -37,5 +37,6 @@ v3 = 1.5:0.3:3.8
 
 Matricula=input(" Qual e o numero da sua matricula?  : ","string")
 printf('\n\nO numero de matricula digitado : %s',Matricula);
+
 
 
