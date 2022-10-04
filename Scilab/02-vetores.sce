@@ -23,7 +23,12 @@ for k = 7:4:31
     printf("%d ",k)
 end
 Vetor04 = 7:4:31
-
+printf("\n\n")
+Vetor05 = 12:3:45
+printf("Vetor05: ",Vetor05)
+for k = 12:3:45
+    printf("%d ",k)
+end
 x=input(" Qual e´ o elemento do Vetor04, que deseja ver? : ")
 printf("O elemento solicitado : %d",Vetor04( evstr(x) ))
 
