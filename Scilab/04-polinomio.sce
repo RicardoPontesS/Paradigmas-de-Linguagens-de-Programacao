@@ -10,8 +10,10 @@ clc; clear;
 mprintf("UENF - Ciencia da Computacao\n");
 printf("Aluno: Ricardo Willian Pontes da Silva - Campos% s", date());
 
+polinomio = poly([3 -4 1],'x') 
 
 p = poly([1 3],'x')   // polinomio em x com duas raizes p(x)=(x-1)(x-3)      
+
 q = poly([2 -1 0],'s')  //  q(s) = (s-2)(s+1)s   ; tres raizes 2,-1,0
 
 t= poly([ 2 3 4],'x','c') // polinomio com coeficientes 2, 3 e 4
