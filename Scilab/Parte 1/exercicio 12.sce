@@ -10,9 +10,10 @@ clc; clear;
 mprintf('UENF - Ciencia da Computacao\n');
 printf("Aluno: Ricardo Willian Pontes da Silva - Campos %s ", date());
 
-X = [1 2 3 4; 4 5 6 7; 7 8 9 0]
+a = [1 2 ; 2 3]
+b = [5 ; 8]
 
-diag(X)
-diag(X,1)
-diag(X,-1)
-diag([ 5 7 9])
+c = inv(a)
+c = c * b
+
+printf("\nO resultado do sistema utilizando matriz inversa foi de: \n")
