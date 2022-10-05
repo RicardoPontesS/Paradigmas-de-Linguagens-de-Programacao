@@ -10,6 +10,10 @@ clc; clear;
 mprintf("UENF - Ciencia da Computacao\n");
 printf(" Aluno: Ricardo Willian Pontes da Silva - Campos % s", date());
 
+
+Lista1 = list("abcd", "xyzw")
+Lista2 = list(["abcd", "xyzw"])
+
 ListaObjetos = list(1,["a" "b"])
 
 ListaAnimal(1) = "gato"
@@ -24,5 +28,3 @@ ListaCores = list("Amarelo", "Verde", "Azul")
 ListaCidades = list("Macaé", "Campos", "Rio de Janeiro")
 ListaProfissoes = list("Taxista", "Professor", "Enfermeiro")
 
-Lista1 = list("abcd", "xyzw")
-Lista2 = list(["abcd", "xyzw"])
