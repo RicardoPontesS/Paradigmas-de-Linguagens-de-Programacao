@@ -8,8 +8,14 @@
 
 clc; clear;      
 mprintf('UENF - Ciencia da Computacao\n');
-printf("Aluno: Fulano de tal - Campos %s ", date());
+printf("Aluno: Ricardo Willian Pontes da Silva - Campos %s ", date());
 
+
+a = [1 2 ; 2 3] 
+b = [5 ; 8]
+
+matInversa = inv(a)
+multmatInversa = matInversa * b
 
 m1 = [1 2 3; 4 5 6; 7 8 9]
 
