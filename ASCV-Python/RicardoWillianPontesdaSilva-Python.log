@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.16)  28 SEP 2022 09:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.16)  6 OCT 2022 08:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1309,16 +1309,16 @@ LaTeX Font Info:    Font shape `T1/pag/b/n' in size <12> not available
 (Font)              Font shape `T1/pag/db/n' tried instead on input line 3.
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <10.95> not available
 (Font)              Font shape `T1/pag/db/n' tried instead on input line 3.
-)
+ [3
+
+ <./Pictures//sumario01.jpg>])
 \tf@toc=\write5
 \openout5 = `RicardoWillianPontesdaSilva-Python.toc'.
 
- [3
 
- <./Pictures//sumario01.jpg>]
 [4] (01introducPy.tex
 Cap\'{\i }tulo 1.
-<Pictures//capitulo01.jpg, id=108, 1204.5pt x 469.755pt>
+<Pictures//capitulo01.jpg, id=123, 1204.5pt x 469.755pt>
 File: Pictures//capitulo01.jpg Graphic file (type jpg)
 <use Pictures//capitulo01.jpg>
 Package pdftex.def Info: Pictures//capitulo01.jpg  used on input line 9.
@@ -1327,7 +1327,7 @@ Package pdftex.def Info: Pictures//capitulo01.jpg  used on input line 9.
 
 
  <./Pictures//capitulo01.jpg>]
-<Pictures//python-logo-master-v3-TM.png, id=119, 611.75027pt x 206.63113pt>
+<Pictures//python-logo-master-v3-TM.png, id=134, 611.75027pt x 206.63113pt>
 File: Pictures//python-logo-master-v3-TM.png Graphic file (type png)
 <use Pictures//python-logo-master-v3-TM.png>
 Package pdftex.def Info: Pictures//python-logo-master-v3-TM.png  used on input 
@@ -1351,7 +1351,7 @@ Package fancyhdr Warning: \headheight is too small (14.5pt):
 
 ]
 Cap\'{\i }tulo 2.
-<Pictures//capitulo.jpg, id=144, 903.375pt x 352.31625pt>
+<Pictures//capitulo.jpg, id=159, 903.375pt x 352.31625pt>
 File: Pictures//capitulo.jpg Graphic file (type jpg)
 <use Pictures//capitulo.jpg>
 Package pdftex.def Info: Pictures//capitulo.jpg  used on input line 8.
@@ -1399,22 +1399,30 @@ Overfull \hbox (0.98495pt too wide) in paragraph at lines 214--215
 ][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[13] [14]) (RicardoWillianPontesdaSilva-Python.bbl
+[13] [14]) (03ObjetosPy.tex [15] [16
+
+]
+Cap\'{\i }tulo 3.
+File: Pictures//capitulo.jpg Graphic file (type jpg)
+<use Pictures//capitulo.jpg>
+Package pdftex.def Info: Pictures//capitulo.jpg  used on input line 8.
+(pdftex.def)             Requested size: 597.50787pt x 233.04015pt.
+) (RicardoWillianPontesdaSilva-Python.bbl
 (RicardoWillianPontesdaSilva-Python.brf)
 \tf@brf=\write6
 \openout6 = `RicardoWillianPontesdaSilva-Python.brf'.
 
- [15] [16
+ [17] [18
 
 ]
-<Pictures//Bibliografia.png, id=323, 578.16pt x 225.4824pt>
+<Pictures//Bibliografia.png, id=352, 578.16pt x 225.4824pt>
 File: Pictures//Bibliografia.png Graphic file (type png)
 <use Pictures//Bibliografia.png>
 Package pdftex.def Info: Pictures//Bibliografia.png  used on input line 1.
 (pdftex.def)             Requested size: 597.50787pt x 233.04079pt.
- [17 <./Pictures//Bibliografia.png>]) [18]
+ [19 <./Pictures//Bibliografia.png>]) [20]
 No file RicardoWillianPontesdaSilva-Python.ind.
-(ficha.tex) [19
+(ficha.tex) [21
 
 ] (RicardoWillianPontesdaSilva-Python.aux)
 Package rerunfilecheck Info: File `RicardoWillianPontesdaSilva-Python.brf' has 
@@ -1422,10 +1430,10 @@ not changed.
 (rerunfilecheck)             Checksum: 55F0A78B3B40A3C92C90666EEC41ACFD;663.
  ) 
 Here is how much of TeX's memory you used:
- 33407 strings out of 478338
- 651199 string characters out of 2836700
+ 33437 strings out of 478338
+ 651731 string characters out of 2836700
  1287169 words of memory out of 3000000
- 50715 multiletter control sequences out of 15000+600000
+ 50729 multiletter control sequences out of 15000+600000
  561794 words of font info for 316 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,13n,92p,1033b,1886s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1439,10 +1447,10 @@ e1/urw/avantgar/uagk8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmb8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmr8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmri8a.pfb>
-Output written on RicardoWillianPontesdaSilva-Python.pdf (19 pages, 1809541 byt
+Output written on RicardoWillianPontesdaSilva-Python.pdf (21 pages, 1815071 byt
 es).
 PDF statistics:
- 573 PDF objects out of 1000 (max. 8388607)
- 191 named destinations out of 1000 (max. 500000)
- 100091 words of extra memory for PDF output out of 106986 (max. 10000000)
+ 620 PDF objects out of 1000 (max. 8388607)
+ 204 named destinations out of 1000 (max. 500000)
+ 100131 words of extra memory for PDF output out of 106986 (max. 10000000)
 
