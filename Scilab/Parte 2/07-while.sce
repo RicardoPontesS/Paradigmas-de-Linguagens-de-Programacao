@@ -7,7 +7,7 @@
 
 clear; clc;
 mprintf("UENF - Ciencia da Computacao\n");
-printf(" Aluno: Fulano de tal - Campos %s\n\n", date());
+printf(" Aluno: Ricardo Willian Pontes da Silva - Campos %s\n\n", date());
 
 mm=[];
 m = 100; 
