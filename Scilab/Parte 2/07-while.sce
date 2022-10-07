@@ -1,4 +1,4 @@
-// Prof. Ausberto S. Castro Vera
+0// Prof. Ausberto S. Castro Vera
 //  Outubro, 2022
 //
 // Para executar desde o editor SciNotes:   < Ctrl ><Shift>< E >
@@ -15,8 +15,8 @@ while  m > 0
   a  = m *3;
   mm =[mm m]
   m = m-28;
+    
 end
-
 
 k= 3;0
 
@@ -26,7 +26,6 @@ while (k< 30)
    j=j+1;
    k=k+5;
 end;
-
 A
   
 printf("\n SOMA de varios numeros...:\n\n");
