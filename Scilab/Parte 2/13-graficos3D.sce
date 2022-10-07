@@ -6,7 +6,7 @@
 //
 // ======> Assunto:  Programacao: GRAFICOS III ==================
 clear; clc; clf();
-Aluno = 'Fulano de Silva';  // <============ Nome do aluno
+Aluno = 'Ricardo Willian Pontes da Silva'; 
 
 // propriedades da figura: NÃO alterar !!
 dt=getdate(); dd= ' ('+string(dt(7)) + ':'+string(dt(8))+')' ;
