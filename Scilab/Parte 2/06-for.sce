@@ -31,6 +31,7 @@ for k = 1:0.8:5
          A(2,j) =  10* k;
          
          B(k,j) =  100* k;    // indice somente parte inteira     
+         
          j=j+1;
 end;
 A
