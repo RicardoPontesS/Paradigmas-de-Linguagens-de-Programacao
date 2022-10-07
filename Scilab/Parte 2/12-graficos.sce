@@ -16,7 +16,7 @@ xtitle('y = xcos(x)');   // titulo do grafico
 // propriedades da figura
 f=gcf();
 // --------------------------------- altere a próxima linha com seu nome:
-f.figure_name='UENF - Paradigmas Scilab - 2022  - Fulano da Silva';
+f.figure_name='UENF - Paradigmas Scilab - 2022  - Ricardo Willian Pontes da Silva';
 
 // propriedades dos eixos
 da=gca(); // 
