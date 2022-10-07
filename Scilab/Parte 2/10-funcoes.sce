@@ -7,7 +7,7 @@
 // ======> Assunto:  Programacao: FUNCOES ==================
 
 clear; clc;
-Aluno = 'Fulano de Tal' ;   /// <================  COMPLETAR !!!!
+Aluno = 'Ricardo Willian Pontes da Silva' ;
 
 dt=getdate(); dd= ' ('+string(dt(7)) + ':'+string(dt(8))+')' ;
 mprintf('UENF - CCT - LCMAT - Ciencia da Computacao\n');
