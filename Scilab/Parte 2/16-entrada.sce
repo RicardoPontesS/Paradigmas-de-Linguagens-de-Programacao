@@ -7,7 +7,7 @@
 // ======> Assunto: Programacao: Formulario de Entrada de dados ==================
 
 clear; clc;
-Aluno = 'Fulano de tal';  // <============ Nome do aluno
+Aluno = 'Ricardo WIllian Pontes da Silva';  // <============ Nome do aluno
 
 
 txt=['Prova 1';'Prova 2';'Prova 3 ' ;'Trabalho ';'Pratica '; 'Pesquisa']; 

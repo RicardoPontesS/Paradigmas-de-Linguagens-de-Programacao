@@ -7,7 +7,7 @@
 // ======> Assunto: Programacao: Formulario de Entrada de dados ==================
 
 clear; clc;
-Aluno = 'Fulano de tal';    // Seu NOME aqui
+Aluno = 'Ricardo Willian Pontes da Silva';    // Seu NOME aqui
 Disciplina = 'Paradigmas de Linguagens de Programacao - CC-LCMAT-CCT-UENF 2022';
 b = "    ";
 
