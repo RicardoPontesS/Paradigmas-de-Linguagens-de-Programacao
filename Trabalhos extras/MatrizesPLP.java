@@ -8,7 +8,7 @@ Data de mudança: --/--/--
 
 package exercicioPLP;
 
-importar   java . útil . Aleatório ;
+import   java.util.random;
 
 public     class   MatrizesPLP {
 
