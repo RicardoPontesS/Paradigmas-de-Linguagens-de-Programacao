@@ -5,12 +5,11 @@ Data de criação: 28/09/22
 Data de mudança: --/--/--
 
 */
-
 package exercicioPLP;
 
-importar   java . útil . Aleatório ;
+import java.util.Random;
 
-public     class   MatrizesPLP {
+public class MatrizesPLP {
 
 	public static void main(String[] args) {
 		int[][] matriz1 = new int[4][4];
@@ -67,3 +66,4 @@ public     class   MatrizesPLP {
 	}
 
 }
+
