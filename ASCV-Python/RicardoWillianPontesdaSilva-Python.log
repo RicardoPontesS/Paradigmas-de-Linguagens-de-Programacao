@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.16)  9 OCT 2022 16:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.16)  9 OCT 2022 16:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1430,10 +1430,10 @@ not changed.
 (rerunfilecheck)             Checksum: FBE8907250B03F3B1E27652A44FAEBBE;757.
  ) 
 Here is how much of TeX's memory you used:
- 33449 strings out of 478338
- 651873 string characters out of 2836700
+ 33448 strings out of 478338
+ 651862 string characters out of 2836700
  1287169 words of memory out of 3000000
- 50736 multiletter control sequences out of 15000+600000
+ 50735 multiletter control sequences out of 15000+600000
  561924 words of font info for 318 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,13n,92p,1033b,1886s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1447,7 +1447,7 @@ e1/urw/avantgar/uagk8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmb8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmr8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmri8a.pfb>
-Output written on RicardoWillianPontesdaSilva-Python.pdf (21 pages, 1817244 byt
+Output written on RicardoWillianPontesdaSilva-Python.pdf (21 pages, 1817238 byt
 es).
 PDF statistics:
  627 PDF objects out of 1000 (max. 8388607)
