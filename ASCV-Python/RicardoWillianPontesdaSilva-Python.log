@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.16)  9 OCT 2022 15:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.16)  9 OCT 2022 15:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1415,7 +1415,7 @@ Package pdftex.def Info: Pictures//capitulo.jpg  used on input line 8.
  [17] [18
 
 ]
-<Pictures//Bibliografia.png, id=353, 578.16pt x 225.4824pt>
+<Pictures//Bibliografia.png, id=357, 578.16pt x 225.4824pt>
 File: Pictures//Bibliografia.png Graphic file (type png)
 <use Pictures//Bibliografia.png>
 Package pdftex.def Info: Pictures//Bibliografia.png  used on input line 1.
@@ -1430,10 +1430,10 @@ not changed.
 (rerunfilecheck)             Checksum: FBE8907250B03F3B1E27652A44FAEBBE;757.
  ) 
 Here is how much of TeX's memory you used:
- 33441 strings out of 478338
- 651776 string characters out of 2836700
+ 33449 strings out of 478338
+ 651873 string characters out of 2836700
  1287169 words of memory out of 3000000
- 50732 multiletter control sequences out of 15000+600000
+ 50736 multiletter control sequences out of 15000+600000
  561924 words of font info for 318 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,13n,92p,1033b,1886s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1447,10 +1447,10 @@ e1/urw/avantgar/uagk8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmb8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmr8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmri8a.pfb>
-Output written on RicardoWillianPontesdaSilva-Python.pdf (21 pages, 1816455 byt
+Output written on RicardoWillianPontesdaSilva-Python.pdf (21 pages, 1817245 byt
 es).
 PDF statistics:
- 622 PDF objects out of 1000 (max. 8388607)
- 202 named destinations out of 1000 (max. 500000)
+ 627 PDF objects out of 1000 (max. 8388607)
+ 206 named destinations out of 1000 (max. 500000)
  100131 words of extra memory for PDF output out of 106986 (max. 10000000)
 
