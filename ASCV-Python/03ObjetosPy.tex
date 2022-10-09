@@ -25,7 +25,17 @@ Desta forma, seguindo a mesma lógica de classe, que busca implementar o mundo r
    print(soma)
 
 \end{lstlisting}
-  
+Outra funcionalidade das classes contida na linguagem Python é o que se entende como construtor de uma classe no conceito de POO. Esse comando é utilizado para atribuir valores nos determinados atributos que o objeto está modificando. Abaixo segue um pequeno exemplo de como utilizar o operador init().
+
+   \begin{lstlisting}   	
+   class Pessoa:
+   def __init__(self, nome, idade):
+   self.nome = nome
+   self.idade = idade
+   
+   Joao = Pessoa("Joao", 25)
+\end{lstlisting}
+
    %%%%%%%%======================
     \section{Operadores ou M\'{e}todos}
     %%%%%%%%======================
