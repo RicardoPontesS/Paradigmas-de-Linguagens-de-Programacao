@@ -42,7 +42,20 @@ Outra funcionalidade das classes contida na linguagem Python é o que se entende
     \section{Operadores ou M\'{e}todos}
 Em suma, podemos classificar um método como sendo um uma função ligada a um objeto instância. Os métodos podem ser de classes definidas pelo próprio usuário, mas também métodos já nativos da própria linguagem. Para se declarar um método em Python, é necessário utilizar da palavra reservada def, seguida de parênteses, que possuem a função de agrupar os parâmetros e por fim, o uso também da palavra reservada init, a qual já foi detalhada anteriormente. Abaixo será apresentado um pequeno exemplo da declaração de um método na linguagem Python.
  
+   \begin{lstlisting} 
+	
+   class Pessoa:
+   def __init__(self, nome, idade):
+   self.nome = nome
+   self.idade = idade
 
+   def setNome(self, nome):
+   self.nome = nome
+
+   def setIdade(self, idade):
+   self.idade = idade
+
+\end{lstlisting}
 
    %%%%%%%%======================
     \section{Heran\c{c}a}
