@@ -24,10 +24,11 @@
 \contentsline {subsection}{\numberline {2.5.1}M\'{o}dulos}{14}{subsection.2.5.1}%
 \contentsline {subsection}{\numberline {2.5.2}Pacotes}{15}{subsection.2.5.2}%
 \contentsline {chapter}{\numberline {3} Programa\c {c}\~{a}o Orientada a Objetos com Python}{17}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Classes e Objetos}{17}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Operadores ou M\'{e}todos}{18}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Heran\c {c}a}{18}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Estudo de Caso: }{18}{section.3.4}%
+\contentsline {section}{\numberline {3.1}Classes}{17}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Objetos}{17}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Operadores ou M\'{e}todos}{18}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Heran\c {c}a}{18}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Estudo de Caso: }{18}{section.3.5}%
 \contentsline {chapter}{\textcolor {ocre}{Bibliografia}}{20}{chapter*.2}%
 \contentsline {chapter}{\textcolor {ocre}{Index}}{21}{section*.3}%
 \contentsfinish 

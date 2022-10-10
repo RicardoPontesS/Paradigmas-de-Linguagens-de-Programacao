@@ -8,7 +8,7 @@
 \chapter{ Programa\c{c}\~{a}o Orientada a Objetos com Python}
 O paradigma Orientado a Objetos é um conjunto de padrões exercidos de modo a solucionar um determinado problema, classificando-o como um objeto do mundo real. Como já citado anteriormente no tópico "Orientação a objetos"  na página \pageref{ling2} baseado em \cite{FBarelli2019} , em Python, toda e qualquer construção da linguagem é considerada um objeto. Desta forma, mesmo quando não se usa o paradigma POO, ainda assim se utiliza de objetos.
    %%%%%%%%======================
-    \section{Classes e Objetos}
+    \section{Classes}
 Como citado por \cite{Perkovic2016},em Python, uma classe pode ser entendida como um "agrupamento" de métodos e atributos de um determinado objeto. Vale ressaltar também que a criação da classe deverá ocorrer antes da criação do seu respectivo objeto. Abaixo veremos o exemplo da utilização de uma classe na linguagem Python.
 
    \begin{lstlisting}
@@ -17,6 +17,7 @@ Como citado por \cite{Perkovic2016},em Python, uma classe pode ser entendida com
     num = 5
 
     \end{lstlisting}
+\section{Objetos}
 Desta forma, seguindo a mesma lógica de classe, que busca implementar o mundo real e suas soluções de problemas no conceito de algoritmos computacionais, os objetos podem ser definidos como qualquer existência abstrata de modo que possua comportamentos e características. Abaixo será mostrado um exemplo prático da criação de um objeto na linguagem Python.
 
    \begin{lstlisting}   	
@@ -25,9 +26,10 @@ Desta forma, seguindo a mesma lógica de classe, que busca implementar o mundo r
    print(soma)
 
 \end{lstlisting}
-Outra funcionalidade das classes contida na linguagem Python é o que se entende como construtor de uma classe no conceito de POO. Esse comando é utilizado para atribuir valores nos determinados atributos que o objeto está modificando. Abaixo segue um pequeno exemplo de como utilizar o operador init().
+Outra funcionalidade das classes contida na linguagem Python é o que se entende como construtor de uma classe no conceito de POO. Esse comando é utilizado para atribuir valores nos determinados atributos que o objeto está modificando. Abaixo segue um pequeno exemplo de como utilizar a palavra reservada init().
 
-   \begin{lstlisting}   	
+   \begin{lstlisting} 
+   	  	
    class Pessoa:
    def __init__(self, nome, idade):
    self.nome = nome
@@ -38,7 +40,7 @@ Outra funcionalidade das classes contida na linguagem Python é o que se entende
 
    %%%%%%%%======================
     \section{Operadores ou M\'{e}todos}
-    %%%%%%%%======================
+Em suma, podemos classificar um método como sendo um uma função ligada a um objeto instância
 
 
    %%%%%%%%======================
