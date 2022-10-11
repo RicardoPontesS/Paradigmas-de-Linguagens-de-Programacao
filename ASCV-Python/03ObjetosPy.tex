@@ -62,19 +62,21 @@ Vale destacar também que, há uma ligeira diferença entre métodos e funções
    %%%%%%%%======================
     \section{Heran\c{c}a}
     %%%%%%%%======================
-No conceito do paradigma orientado a objetos, herança é a capacidade pela qual uma linguagem tem de estender funcionalidades de uma classe, ou seja, podemos entender a herança como sendo um tipo de relacionamento entre classes. abaixo será expressado um simples exemplo da utilização de herança na linguagem Python.
-   \begin{lstlisting} 
-	
-   class Pessoa:
-   def __init__(self, nome, idade):
-   self.nome = nome
-   self.idade = idade
-	
-   class Estudante(Pessoa):
-   pass
-   
-   Ricardo = Estudante ('Ricardo Willian Pontes da Silva',21)
+No conceito do paradigma orientado a objetos, herança é a capacidade pela qual uma linguagem tem de estender funcionalidades de uma classe, ou seja, podemos entender a herança como sendo um tipo de relacionamento entre classes. O uso de herança se faz necessário uma vez que possibilita a reutilização de códigos e também representa de maneira satisfatória o conceito do mundo real em algoritmos computacionais. Abaixo será expressado um simples exemplo da utilização de herança na linguagem Python.
+   \begin{lstlisting} 	
+
+class Pessoa:
+	def __init__(self, nome, idade):
+	self.nome = nome
+		self.idade = idade
+
+class Estudante(Pessoa):
+	pass
+
+Ricardo = Estudante ('Ricardo Willian Pontes da Silva',21)
 \end{lstlisting}
+
+Vale destacar o uso da palavra reservada pass na classe Estudante que está estendendo a classe Pessoa,que tem como objetivo herdar atributos e métodos na classe mãe sem incluir seus específicos. 
    %%%%%%%%======================
     \section{Estudo de Caso: }
     %%%%%%%%====================== 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.16)  10 OCT 2022 21:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.16)  10 OCT 2022 21:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1431,7 +1431,7 @@ not changed.
  ) 
 Here is how much of TeX's memory you used:
  33498 strings out of 478338
- 652521 string characters out of 2836700
+ 652518 string characters out of 2836700
  1287169 words of memory out of 3000000
  50745 multiletter control sequences out of 15000+600000
  562184 words of font info for 322 fonts, out of 8000000 for 9000
@@ -1447,7 +1447,7 @@ e1/urw/avantgar/uagk8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmb8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmr8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmri8a.pfb>
-Output written on RicardoWillianPontesdaSilva-Python.pdf (23 pages, 1827528 byt
+Output written on RicardoWillianPontesdaSilva-Python.pdf (23 pages, 1827965 byt
 es).
 PDF statistics:
  684 PDF objects out of 1000 (max. 8388607)
