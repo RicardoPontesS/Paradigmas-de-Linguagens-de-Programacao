@@ -6,7 +6,7 @@
 // ======> Assunto: SINAIS   =============================
 
 clear; clc;
-Aluno = 'Prof. Ausberto Castro' ;
+Aluno = 'Ricardo Willian Pontes da Silva' ;
 
 
 function ASCV_Sobre()
