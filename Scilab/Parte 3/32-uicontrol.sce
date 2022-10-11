@@ -11,7 +11,7 @@
 //
 // ======> Assunto:  GUI   UIControl
 clear; clc;
-Aluno = 'Fulano de Tal';
+Aluno = 'Ricardo Willian Pontes da Silva';
 //------------------------------------------------------------
 
 function ASCV_Sobre()

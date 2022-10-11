@@ -10,7 +10,7 @@
 //    callback : executa uma instrução do Scilab (uma função, um comando, etc)
 
 clear; clc;
-Aluno = 'Prof. Ausberto Castro';
+Aluno = 'Ricardo Willian Pontes da Silva';
 //------------------------- JANELA Principal ----------------------------------
 //  Cria uma janela grafica: Comando "figure"
 h = figure('position', [150 150 600 600], ...    // [ x y larguraJanela alturaJanela]

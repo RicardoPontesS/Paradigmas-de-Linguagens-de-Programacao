@@ -7,7 +7,7 @@
 // ======> Assunto:  buttons ==================
 
 clear; clc;
-Aluno = 'Fulano de Tal';
+Aluno = 'Ricardo Willian Pontes da Silva';
 
 //--------------- coisas de Futebol --------------------------------------------
 time=messagebox("Qual é o melhor time do Brasil?","modal", "info",['Atetico-MG' 'Fluminense' 'Flamengo' 'Internacional']);
