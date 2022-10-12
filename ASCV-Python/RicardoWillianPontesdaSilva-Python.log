@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.16)  12 OCT 2022 08:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.16)  12 OCT 2022 09:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1407,7 +1407,12 @@ File: Pictures//capitulo.jpg Graphic file (type jpg)
 <use Pictures//capitulo.jpg>
 Package pdftex.def Info: Pictures//capitulo.jpg  used on input line 8.
 (pdftex.def)             Requested size: 597.50787pt x 233.04015pt.
-[17] [18]) (RicardoWillianPontesdaSilva-Python.bbl
+[17] [18]
+Overfull \hbox (0.98495pt too wide) in paragraph at lines 100--102
+[][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+) (RicardoWillianPontesdaSilva-Python.bbl
 (RicardoWillianPontesdaSilva-Python.brf)
 \tf@brf=\write6
 \openout6 = `RicardoWillianPontesdaSilva-Python.brf'.
@@ -1415,7 +1420,7 @@ Package pdftex.def Info: Pictures//capitulo.jpg  used on input line 8.
  [19] [20
 
 ]
-<Pictures//Bibliografia.png, id=409, 578.16pt x 225.4824pt>
+<Pictures//Bibliografia.png, id=413, 578.16pt x 225.4824pt>
 File: Pictures//Bibliografia.png Graphic file (type png)
 <use Pictures//Bibliografia.png>
 Package pdftex.def Info: Pictures//Bibliografia.png  used on input line 1.
@@ -1430,8 +1435,8 @@ not changed.
 (rerunfilecheck)             Checksum: 9D9F2BC30145479903E034804A433E9A;806.
  ) 
 Here is how much of TeX's memory you used:
- 33525 strings out of 478338
- 652830 string characters out of 2836700
+ 33529 strings out of 478338
+ 652891 string characters out of 2836700
  1287169 words of memory out of 3000000
  50764 multiletter control sequences out of 15000+600000
  562184 words of font info for 322 fonts, out of 8000000 for 9000
@@ -1447,10 +1452,10 @@ e1/urw/avantgar/uagk8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmb8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmr8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmri8a.pfb>
-Output written on RicardoWillianPontesdaSilva-Python.pdf (23 pages, 1830555 byt
+Output written on RicardoWillianPontesdaSilva-Python.pdf (23 pages, 1831460 byt
 es).
 PDF statistics:
- 696 PDF objects out of 1000 (max. 8388607)
- 248 named destinations out of 1000 (max. 500000)
+ 701 PDF objects out of 1000 (max. 8388607)
+ 252 named destinations out of 1000 (max. 500000)
  100139 words of extra memory for PDF output out of 106986 (max. 10000000)
 
