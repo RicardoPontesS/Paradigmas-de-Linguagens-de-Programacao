@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.16)  12 OCT 2022 08:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.16)  12 OCT 2022 08:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1415,7 +1415,7 @@ Package pdftex.def Info: Pictures//capitulo.jpg  used on input line 8.
  [19] [20
 
 ]
-<Pictures//Bibliografia.png, id=400, 578.16pt x 225.4824pt>
+<Pictures//Bibliografia.png, id=401, 578.16pt x 225.4824pt>
 File: Pictures//Bibliografia.png Graphic file (type png)
 <use Pictures//Bibliografia.png>
 Package pdftex.def Info: Pictures//Bibliografia.png  used on input line 1.
@@ -1427,12 +1427,12 @@ No file RicardoWillianPontesdaSilva-Python.ind.
 ] (RicardoWillianPontesdaSilva-Python.aux)
 Package rerunfilecheck Info: File `RicardoWillianPontesdaSilva-Python.brf' has 
 not changed.
-(rerunfilecheck)             Checksum: FBE8907250B03F3B1E27652A44FAEBBE;757.
+(rerunfilecheck)             Checksum: 9D9F2BC30145479903E034804A433E9A;806.
  ) 
 Here is how much of TeX's memory you used:
  33498 strings out of 478338
  652518 string characters out of 2836700
- 1287168 words of memory out of 3000000
+ 1287169 words of memory out of 3000000
  50745 multiletter control sequences out of 15000+600000
  562184 words of font info for 322 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1447,10 +1447,10 @@ e1/urw/avantgar/uagk8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmb8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmr8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmri8a.pfb>
-Output written on RicardoWillianPontesdaSilva-Python.pdf (23 pages, 1828271 byt
+Output written on RicardoWillianPontesdaSilva-Python.pdf (23 pages, 1828728 byt
 es).
 PDF statistics:
- 684 PDF objects out of 1000 (max. 8388607)
+ 686 PDF objects out of 1000 (max. 8388607)
  240 named destinations out of 1000 (max. 500000)
  100139 words of extra memory for PDF output out of 106986 (max. 10000000)
 
