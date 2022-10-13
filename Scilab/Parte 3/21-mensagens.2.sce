@@ -4,17 +4,25 @@
 //
 // Para executar desde o editor SciNotes:   < Ctrl ><Shift>< E >
 //
-// ======> Assunto: Programacao: GUI - Entrada de Dados ==================
+// ======> Assunto: Programacao: GUI - Menus Interativos ==================
 
 clear; clc;
-Aluno = 'Ricardo Willian Pontes da Silva';
+cliente = 'Ricardo Willian Pontes da Silva';
 
-r = messagebox([Aluno+', voce esta com Notas muito baixas...'; '';
-             'Precisa de outra prova?'], "Prof. Ausberto Castro - UENF", "info",["Não","Sim"], "modal");
+macarrao    = ['Penne','Espaguete','Farfalle','Bucatini'];
+proteina    = ['Carne bovina','Peixe','Frango'];
+molho       = ['Holandês','Vermelho', 'Branco'];
+queijo      = ['Ricota','Mozzarella','Parmesão'];
 
-if r ==2 then
-  messagebox([Aluno+', tudo bem'; '';
-             'Deseja fazer a recuperação na terça ou quinta?'], "Prof. Ausberto Castro - UENF", "info",["Terça","Quinta"], "modal");
-  else messagebox([Aluno+', que pena'; '';
-             'Tem certeza disso? '], "Prof. Ausberto Castro - UENF", "info",["Não","Sim"], "modal");
-end;
+L1=list('Macarrão',1, macarrao); //titulo, Numero opção default, lista-opcoes
+L2=list('Proteina',1, proteina); 
+L3=list('Moho',1,molho);
+L4=list('Queijo',1,queijo);
+
+OpMatr=x_choices([cliente;' Escolha uma opção de cada:'],list(L1,L2,L3,L4)); 
+
+messagebox([cliente+', você escolheu a combinação: '; '  '; 
+'Macarrão: ' + string(macarrao(OpMatr(1)));
+'Proteina: '+ string(proteina(OpMatr(2))); 
+'Molho: '+ string(molho(OpMatr(3)));
+'Queijo '+ string(queijo(OpMatr(4)))]);
