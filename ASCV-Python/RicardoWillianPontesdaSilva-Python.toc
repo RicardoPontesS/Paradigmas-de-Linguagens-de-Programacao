@@ -29,6 +29,12 @@
 \contentsline {section}{\numberline {3.3}Operadores ou M\'{e}todos}{18}{section.3.3}%
 \contentsline {section}{\numberline {3.4}Heran\c {c}a}{18}{section.3.4}%
 \contentsline {section}{\numberline {3.5}Estudo de Caso: }{19}{section.3.5}%
-\contentsline {chapter}{\textcolor {ocre}{Bibliografia}}{22}{chapter*.2}%
-\contentsline {chapter}{\textcolor {ocre}{Index}}{23}{section*.3}%
+\contentsline {chapter}{\numberline {4} Aplica\c {c}\~{o}es da Linguagem Python}{21}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Opera\c {c}\~{o}es b\'{a}sicas}{21}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Programas gr\'{a}ficos}{21}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Programas com Objetos}{21}{section.4.3}%
+\contentsline {section}{\numberline {4.4}O algoritmo Quicksort - Implementa\c {c}\~{a}o}{21}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Aplica\c {c}\~{o}es com Banco de Dados}{21}{section.4.5}%
+\contentsline {chapter}{\textcolor {ocre}{Bibliografia}}{24}{chapter*.2}%
+\contentsline {chapter}{\textcolor {ocre}{Index}}{25}{section*.3}%
 \contentsfinish 
