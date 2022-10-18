@@ -1,3 +1,10 @@
+/*
+Autor: Ricardo Willian Pontes da Silva
+E-mail: 00119110450@pq.uenf.br
+Data de cria√ß√£o: 18/10/22 
+Data de mudan√ßa: --/--/--
+
+*/
 package exercicioPLP;
 import java.util.Scanner;
 
@@ -6,16 +13,16 @@ public class Exercicio4 {
 	public static void main(String[] args) {
 	Scanner input = new Scanner(System.in);
 	
-	System.out.print("Digite o primeiro n˙mero inteiro: ");
+	System.out.print("Digite o primeiro n√∫mero inteiro: ");
 	int numero1 = input.nextInt();
 	
-	System.out.print("Digite o segundo n˙mero inteiro: ");
+	System.out.print("Digite o segundo n√∫mero inteiro: ");
 	int numero2 = input.nextInt();
 	
-	System.out.printf("\nA soma entre %d com %d È de: %d",numero1,numero2,numero1+numero2);
-	System.out.printf("\nA subtraÁ„o entre %d com %d È de: %d",numero1,numero2,numero1-numero2);
-	System.out.printf("\nA multiplicaÁ„o entre %d com %d È de: %d",numero1,numero2,numero1*numero2);
-	System.out.printf("\nA divis„o entre %d com %d È de: %d",numero1,numero2,numero1/numero2);
+	System.out.printf("\nA soma entre %d com %d √© de: %d",numero1,numero2,numero1+numero2);
+	System.out.printf("\nA subtra√ß√£o entre %d com %d √© de: %d",numero1,numero2,numero1-numero2);
+	System.out.printf("\nA multiplica√ß√£o entre %d com %d √© de: %d",numero1,numero2,numero1*numero2);
+	System.out.printf("\nA divis√£o entre %d com %d √© de: %d",numero1,numero2,numero1/numero2);
 	}
 
 }
