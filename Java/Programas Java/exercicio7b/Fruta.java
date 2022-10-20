@@ -1,7 +1,13 @@
+/*
+Autor: Ricardo Willian Pontes da Silva
+E-mail: 00119110450@pq.uenf.br
+Data de criação: 19/10/22 
+Data de mudança: --/--/--
+
+*/
 package exercicioPLP;
 
 import java.util.Scanner;
-
 	
 public class Fruta {
 	
@@ -21,7 +27,7 @@ public class Fruta {
 		dataDeColheita[0] = input.nextInt();
 	
 		
-		System.out.print("M�s da colheita: ");
+		System.out.print("Mês da colheita: ");
 		dataDeColheita[1] = input.nextInt();
 
 		
@@ -30,7 +36,7 @@ public class Fruta {
 
 		
 		if(10 - dataDeColheita[1] > 1) {
-			System.out.println("Produto j� fora da data de validade. ");
+			System.out.println("Produto já fora da data de validade. ");
 		}else {
 			System.out.println("Produto ainda na validade. ");
 		}
