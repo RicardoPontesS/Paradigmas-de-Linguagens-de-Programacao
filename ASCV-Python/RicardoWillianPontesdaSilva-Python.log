@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.16)  1 NOV 2022 21:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.16)  1 NOV 2022 22:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1101,7 +1101,11 @@ Package hyperref Info: Option `pdfmenubar' set `true' on input line 544.
 Package hyperref Info: Option `pdffitwindow' set `true' on input line 544.
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 544.
 Package hyperref Info: Option `colorlinks' set `true' on input line 544.
-) (RicardoWillianPontesdaSilva-Python.aux)
+) (RicardoWillianPontesdaSilva-Python.aux
+
+LaTeX Warning: Label `ling1' multiply defined.
+
+)
 \openout1 = `RicardoWillianPontesdaSilva-Python.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
@@ -1415,13 +1419,18 @@ File: Pictures//capitulo.jpg Graphic file (type jpg)
 <use Pictures//capitulo.jpg>
 Package pdftex.def Info: Pictures//capitulo.jpg  used on input line 9.
 (pdftex.def)             Requested size: 597.50787pt x 233.04015pt.
-) (RicardoWillianPontesdaSilva-Python.bbl
+<grafico py.PNG, id=439, 362.85562pt x 282.30469pt>
+File: grafico py.PNG Graphic file (type png)
+<use grafico py.PNG>
+Package pdftex.def Info: grafico py.PNG  used on input line 48.
+(pdftex.def)             Requested size: 256.0748pt x 199.23158pt.
+[21]) (RicardoWillianPontesdaSilva-Python.bbl
 (RicardoWillianPontesdaSilva-Python.brf)
 \tf@brf=\write6
 \openout6 = `RicardoWillianPontesdaSilva-Python.brf'.
 
- [21] [22]
-<Pictures//Bibliografia.png, id=460, 578.16pt x 225.4824pt>
+ [22 <./grafico py.PNG>]
+<Pictures//Bibliografia.png, id=463, 578.16pt x 225.4824pt>
 File: Pictures//Bibliografia.png Graphic file (type png)
 <use Pictures//Bibliografia.png>
 Package pdftex.def Info: Pictures//Bibliografia.png  used on input line 1.
@@ -1433,15 +1442,18 @@ No file RicardoWillianPontesdaSilva-Python.ind.
 (ficha.tex) [25
 
 ] (RicardoWillianPontesdaSilva-Python.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `RicardoWillianPontesdaSilva-Python.brf' has 
 not changed.
 (rerunfilecheck)             Checksum: 9D9F2BC30145479903E034804A433E9A;806.
  ) 
 Here is how much of TeX's memory you used:
- 33594 strings out of 478338
- 653838 string characters out of 2836700
+ 33603 strings out of 478338
+ 653983 string characters out of 2836700
  1287169 words of memory out of 3000000
- 50797 multiletter control sequences out of 15000+600000
+ 50803 multiletter control sequences out of 15000+600000
  562184 words of font info for 322 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,13n,92p,1033b,1892s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1455,10 +1467,10 @@ e1/urw/avantgar/uagk8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmb8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmr8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmri8a.pfb>
-Output written on RicardoWillianPontesdaSilva-Python.pdf (25 pages, 1842455 byt
+Output written on RicardoWillianPontesdaSilva-Python.pdf (25 pages, 1860632 byt
 es).
 PDF statistics:
- 773 PDF objects out of 1000 (max. 8388607)
- 281 named destinations out of 1000 (max. 500000)
- 100187 words of extra memory for PDF output out of 106986 (max. 10000000)
+ 776 PDF objects out of 1000 (max. 8388607)
+ 282 named destinations out of 1000 (max. 500000)
+ 100192 words of extra memory for PDF output out of 106986 (max. 10000000)
 
