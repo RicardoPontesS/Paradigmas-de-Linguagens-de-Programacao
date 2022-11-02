@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.16)  1 NOV 2022 23:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.16)  2 NOV 2022 17:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1425,27 +1425,31 @@ File: Pictures//capitulo.jpg Graphic file (type jpg)
 <use Pictures//capitulo.jpg>
 Package pdftex.def Info: Pictures//capitulo.jpg  used on input line 9.
 (pdftex.def)             Requested size: 597.50787pt x 233.04015pt.
-<grafico py.PNG, id=439, 362.85562pt x 282.30469pt>
+[21]
+<grafico py.PNG, id=459, 362.85562pt x 282.30469pt>
 File: grafico py.PNG Graphic file (type png)
 <use grafico py.PNG>
-Package pdftex.def Info: grafico py.PNG  used on input line 51.
+Package pdftex.def Info: grafico py.PNG  used on input line 84.
 (pdftex.def)             Requested size: 256.0748pt x 199.23158pt.
-[21]
-Overfull \hbox (0.98495pt too wide) in paragraph at lines 88--89
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22]
+Overfull \hbox (0.98495pt too wide) in paragraph at lines 121--122
 [][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[22 <./grafico py.PNG>]
-<quicksort.PNG, id=490, 761.84625pt x 159.59625pt>
+[23 <./grafico py.PNG>]
+<quicksort.PNG, id=524, 761.84625pt x 159.59625pt>
 File: quicksort.PNG Graphic file (type png)
 <use quicksort.PNG>
-Package pdftex.def Info: quicksort.PNG  used on input line 114.
+Package pdftex.def Info: quicksort.PNG  used on input line 147.
 (pdftex.def)             Requested size: 256.0748pt x 53.64345pt.
- [23 <./quicksort.PNG>]
-<database.PNG, id=528, 333.49594pt x 225.09094pt>
+ [24 <./quicksort.PNG>]
+<database.PNG, id=562, 333.49594pt x 225.09094pt>
 File: database.PNG Graphic file (type png)
 <use database.PNG>
-Package pdftex.def Info: database.PNG  used on input line 168.
+Package pdftex.def Info: database.PNG  used on input line 201.
 (pdftex.def)             Requested size: 256.0748pt x 172.84657pt.
 )
 (RicardoWillianPontesdaSilva-Python.bbl (RicardoWillianPontesdaSilva-Python.brf
@@ -1453,17 +1457,17 @@ Package pdftex.def Info: database.PNG  used on input line 168.
 \tf@brf=\write6
 \openout6 = `RicardoWillianPontesdaSilva-Python.brf'.
 
- [24 <./database.PNG>]
-<Pictures//Bibliografia.png, id=559, 578.16pt x 225.4824pt>
+ [25 <./database.PNG>] [26
+
+]
+<Pictures//Bibliografia.png, id=598, 578.16pt x 225.4824pt>
 File: Pictures//Bibliografia.png Graphic file (type png)
 <use Pictures//Bibliografia.png>
 Package pdftex.def Info: Pictures//Bibliografia.png  used on input line 1.
 (pdftex.def)             Requested size: 597.50787pt x 233.04079pt.
- [25
-
- <./Pictures//Bibliografia.png>]) [26]
+ [27 <./Pictures//Bibliografia.png>]) [28]
 No file RicardoWillianPontesdaSilva-Python.ind.
-(ficha.tex) [27
+(ficha.tex) [29
 
 ] (RicardoWillianPontesdaSilva-Python.aux)
 
@@ -1474,13 +1478,13 @@ not changed.
 (rerunfilecheck)             Checksum: 9D9F2BC30145479903E034804A433E9A;806.
  ) 
 Here is how much of TeX's memory you used:
- 33731 strings out of 478338
- 655865 string characters out of 2836700
+ 33769 strings out of 478338
+ 656432 string characters out of 2836700
  1287169 words of memory out of 3000000
- 50843 multiletter control sequences out of 15000+600000
+ 50849 multiletter control sequences out of 15000+600000
  562184 words of font info for 322 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 89i,13n,92p,1033b,1892s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 89i,13n,92p,1033b,1896s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <C
 :\Users\ricar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.
 pk><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
@@ -1491,10 +1495,10 @@ e1/urw/avantgar/uagk8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmb8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmr8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmri8a.pfb>
-Output written on RicardoWillianPontesdaSilva-Python.pdf (27 pages, 1896210 byt
+Output written on RicardoWillianPontesdaSilva-Python.pdf (29 pages, 1902895 byt
 es).
 PDF statistics:
- 895 PDF objects out of 1000 (max. 8388607)
- 368 named destinations out of 1000 (max. 500000)
+ 941 PDF objects out of 1000 (max. 8388607)
+ 400 named destinations out of 1000 (max. 500000)
  100202 words of extra memory for PDF output out of 106986 (max. 10000000)
 
