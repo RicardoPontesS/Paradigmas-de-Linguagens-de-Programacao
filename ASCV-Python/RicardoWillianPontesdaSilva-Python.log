@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.16)  2 NOV 2022 18:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.16)  2 NOV 2022 18:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1114,6 +1114,9 @@ LaTeX Warning: Label `ling1' multiply defined.
 
 LaTeX Warning: Label `ling1' multiply defined.
 
+
+LaTeX Warning: Label `ling1' multiply defined.
+
 )
 \openout1 = `RicardoWillianPontesdaSilva-Python.aux'.
 
@@ -1440,33 +1443,39 @@ File: grafico py.PNG Graphic file (type png)
 <use grafico py.PNG>
 Package pdftex.def Info: grafico py.PNG  used on input line 98.
 (pdftex.def)             Requested size: 256.0748pt x 199.23158pt.
+<expobj.PNG, id=498, 374.90062pt x 140.77594pt>
+File: expobj.PNG Graphic file (type png)
+<use expobj.PNG>
+Package pdftex.def Info: expobj.PNG  used on input line 123.
+(pdftex.def)             Requested size: 256.0748pt x 96.16241pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [23 <./grafico py.PNG>]
-Overfull \hbox (0.98495pt too wide) in paragraph at lines 136--137
+Overfull \hbox (0.98495pt too wide) in paragraph at lines 157--158
 [][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-<quicksort.PNG, id=523, 761.84625pt x 159.59625pt>
+[24 <./expobj.PNG>]
+<quicksort.PNG, id=561, 761.84625pt x 159.59625pt>
 File: quicksort.PNG Graphic file (type png)
 <use quicksort.PNG>
-Package pdftex.def Info: quicksort.PNG  used on input line 162.
+Package pdftex.def Info: quicksort.PNG  used on input line 183.
 (pdftex.def)             Requested size: 256.0748pt x 53.64345pt.
-[24 <./quicksort.PNG>]
-<database.PNG, id=560, 333.49594pt x 225.09094pt>
+ [25 <./quicksort.PNG>]
+<database.PNG, id=598, 333.49594pt x 225.09094pt>
 File: database.PNG Graphic file (type png)
 <use database.PNG>
-Package pdftex.def Info: database.PNG  used on input line 216.
+Package pdftex.def Info: database.PNG  used on input line 237.
 (pdftex.def)             Requested size: 256.0748pt x 172.84657pt.
 )
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [25]
 (RicardoWillianPontesdaSilva-Python.bbl (RicardoWillianPontesdaSilva-Python.brf
 )
 \tf@brf=\write6
 \openout6 = `RicardoWillianPontesdaSilva-Python.brf'.
 
  [26 <./database.PNG>]
-<Pictures//Bibliografia.png, id=607, 578.16pt x 225.4824pt>
+<Pictures//Bibliografia.png, id=622, 578.16pt x 225.4824pt>
 File: Pictures//Bibliografia.png Graphic file (type png)
 <use Pictures//Bibliografia.png>
 Package pdftex.def Info: Pictures//Bibliografia.png  used on input line 1.
@@ -1486,10 +1495,10 @@ not changed.
 (rerunfilecheck)             Checksum: 9D9F2BC30145479903E034804A433E9A;806.
  ) 
 Here is how much of TeX's memory you used:
- 33796 strings out of 478338
- 656913 string characters out of 2836700
+ 33820 strings out of 478338
+ 657262 string characters out of 2836700
  1287169 words of memory out of 3000000
- 50868 multiletter control sequences out of 15000+600000
+ 50878 multiletter control sequences out of 15000+600000
  562184 words of font info for 322 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,13n,92p,1033b,1896s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1503,10 +1512,10 @@ e1/urw/avantgar/uagk8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmb8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmr8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmri8a.pfb>
-Output written on RicardoWillianPontesdaSilva-Python.pdf (29 pages, 1907962 byt
+Output written on RicardoWillianPontesdaSilva-Python.pdf (29 pages, 1912262 byt
 es).
 PDF statistics:
- 951 PDF objects out of 1000 (max. 8388607)
- 407 named destinations out of 1000 (max. 500000)
- 100207 words of extra memory for PDF output out of 106986 (max. 10000000)
+ 968 PDF objects out of 1000 (max. 8388607)
+ 420 named destinations out of 1000 (max. 500000)
+ 100212 words of extra memory for PDF output out of 106986 (max. 10000000)
 

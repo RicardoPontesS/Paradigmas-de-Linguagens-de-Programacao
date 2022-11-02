@@ -102,7 +102,28 @@ sys.stdout.flush()
   
     \section{Programas com Objetos}
 Python é classificada como uma linguagem de programação orientada a objetos, porém, sua particularidade é de que, quase tudo em Python é um objeto, com suas propriedades e métodos. Abaixo veremos exemplos da aplicação de objetos em programas reais na linguagem Python.
+\begin{lstlisting}
 
+class Pessoa:
+def __init__(mysillyobject, nome, idade):
+mysillyobject.nome = nome
+mysillyobject.idade = idade
+
+def apresentacao(abc):
+print("Ola, meu nome e " + abc.nome)
+
+pessoa1 = Pessoa("Ricardo", 21)
+pessoa1.apresentacao()
+	
+\end{lstlisting}
+
+ \begin{figure}[H]
+	\begin{center}
+		\caption{Gráfico gerado pela biblioteca matplotlib} \label{ling1}
+		\includegraphics[width=9cm]{expobj.PNG} \\
+		{\tiny \sf Fonte:{ Autor}}
+	\end{center}
+\end{figure}
 
     \section{O algoritmo Quicksort - Implementa\c{c}\~{a}o}
 
