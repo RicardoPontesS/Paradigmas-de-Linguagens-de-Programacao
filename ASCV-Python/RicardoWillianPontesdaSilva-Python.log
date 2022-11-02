@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.16)  2 NOV 2022 17:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.16)  2 NOV 2022 18:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1441,35 +1441,39 @@ File: grafico py.PNG Graphic file (type png)
 Package pdftex.def Info: grafico py.PNG  used on input line 98.
 (pdftex.def)             Requested size: 256.0748pt x 199.23158pt.
  [23 <./grafico py.PNG>]
-Overfull \hbox (0.98495pt too wide) in paragraph at lines 135--136
+Overfull \hbox (0.98495pt too wide) in paragraph at lines 136--137
 [][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-<quicksort.PNG, id=527, 761.84625pt x 159.59625pt>
+<quicksort.PNG, id=523, 761.84625pt x 159.59625pt>
 File: quicksort.PNG Graphic file (type png)
 <use quicksort.PNG>
-Package pdftex.def Info: quicksort.PNG  used on input line 161.
+Package pdftex.def Info: quicksort.PNG  used on input line 162.
 (pdftex.def)             Requested size: 256.0748pt x 53.64345pt.
 [24 <./quicksort.PNG>]
-<database.PNG, id=565, 333.49594pt x 225.09094pt>
+<database.PNG, id=560, 333.49594pt x 225.09094pt>
 File: database.PNG Graphic file (type png)
 <use database.PNG>
-Package pdftex.def Info: database.PNG  used on input line 215.
+Package pdftex.def Info: database.PNG  used on input line 216.
 (pdftex.def)             Requested size: 256.0748pt x 172.84657pt.
-) (RicardoWillianPontesdaSilva-Python.bbl
-(RicardoWillianPontesdaSilva-Python.brf)
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25]
+(RicardoWillianPontesdaSilva-Python.bbl (RicardoWillianPontesdaSilva-Python.brf
+)
 \tf@brf=\write6
 \openout6 = `RicardoWillianPontesdaSilva-Python.brf'.
 
- [25 <./database.PNG>] [26
-
-]
+ [26 <./database.PNG>]
 <Pictures//Bibliografia.png, id=607, 578.16pt x 225.4824pt>
 File: Pictures//Bibliografia.png Graphic file (type png)
 <use Pictures//Bibliografia.png>
 Package pdftex.def Info: Pictures//Bibliografia.png  used on input line 1.
 (pdftex.def)             Requested size: 597.50787pt x 233.04079pt.
- [27 <./Pictures//Bibliografia.png>]) [28]
+ [27
+
+ <./Pictures//Bibliografia.png>]) [28]
 No file RicardoWillianPontesdaSilva-Python.ind.
 (ficha.tex) [29
 
@@ -1499,7 +1503,7 @@ e1/urw/avantgar/uagk8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmb8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmr8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmri8a.pfb>
-Output written on RicardoWillianPontesdaSilva-Python.pdf (29 pages, 1907648 byt
+Output written on RicardoWillianPontesdaSilva-Python.pdf (29 pages, 1907962 byt
 es).
 PDF statistics:
  951 PDF objects out of 1000 (max. 8388607)
