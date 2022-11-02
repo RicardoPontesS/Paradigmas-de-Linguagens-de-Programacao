@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.16)  1 NOV 2022 21:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.16)  1 NOV 2022 21:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1420,15 +1420,15 @@ Package pdftex.def Info: Pictures//capitulo.jpg  used on input line 9.
 \tf@brf=\write6
 \openout6 = `RicardoWillianPontesdaSilva-Python.brf'.
 
- [21] [22
-
-]
-<Pictures//Bibliografia.png, id=447, 578.16pt x 225.4824pt>
+ [21] [22]
+<Pictures//Bibliografia.png, id=460, 578.16pt x 225.4824pt>
 File: Pictures//Bibliografia.png Graphic file (type png)
 <use Pictures//Bibliografia.png>
 Package pdftex.def Info: Pictures//Bibliografia.png  used on input line 1.
 (pdftex.def)             Requested size: 597.50787pt x 233.04079pt.
- [23 <./Pictures//Bibliografia.png>]) [24]
+ [23
+
+ <./Pictures//Bibliografia.png>]) [24]
 No file RicardoWillianPontesdaSilva-Python.ind.
 (ficha.tex) [25
 
@@ -1438,10 +1438,10 @@ not changed.
 (rerunfilecheck)             Checksum: 9D9F2BC30145479903E034804A433E9A;806.
  ) 
 Here is how much of TeX's memory you used:
- 33568 strings out of 478338
- 653513 string characters out of 2836700
+ 33594 strings out of 478338
+ 653838 string characters out of 2836700
  1287169 words of memory out of 3000000
- 50784 multiletter control sequences out of 15000+600000
+ 50797 multiletter control sequences out of 15000+600000
  562184 words of font info for 322 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,13n,92p,1033b,1892s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1455,10 +1455,10 @@ e1/urw/avantgar/uagk8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmb8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmr8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmri8a.pfb>
-Output written on RicardoWillianPontesdaSilva-Python.pdf (25 pages, 1839900 byt
+Output written on RicardoWillianPontesdaSilva-Python.pdf (25 pages, 1842455 byt
 es).
 PDF statistics:
- 758 PDF objects out of 1000 (max. 8388607)
- 268 named destinations out of 1000 (max. 500000)
+ 773 PDF objects out of 1000 (max. 8388607)
+ 281 named destinations out of 1000 (max. 500000)
  100187 words of extra memory for PDF output out of 106986 (max. 10000000)
 
