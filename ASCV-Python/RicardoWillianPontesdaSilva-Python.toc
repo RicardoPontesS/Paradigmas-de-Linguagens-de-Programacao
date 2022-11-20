@@ -37,8 +37,8 @@
 \contentsline {section}{\numberline {4.5}Aplica\c {c}\~{o}es com Banco de Dados}{25}{section.4.5}%
 \contentsline {chapter}{\numberline {5}Ferramentas existentes e utilizadas}{27}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Visual Studio Code}{27}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Compilador XYZ}{28}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Interpretador UVW}{28}{section.5.3}%
+\contentsline {section}{\numberline {5.2}Compilador e interpretador CPython}{28}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Interpretador Py Py}{28}{section.5.3}%
 \contentsline {section}{\numberline {5.4}Ambientes de Programa\c {c}\~{a}o IDE MNP}{28}{section.5.4}%
 \contentsline {chapter}{\numberline {6}Conclus\~{o}es}{29}{chapter.6}%
 \contentsline {chapter}{\textcolor {ocre}{Bibliografia}}{32}{chapter*.2}%
