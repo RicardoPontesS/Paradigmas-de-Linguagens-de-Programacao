@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.16)  20 NOV 2022 14:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.16)  20 NOV 2022 14:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1118,6 +1118,9 @@ LaTeX Warning: Label `ling1' multiply defined.
 LaTeX Warning: Label `ling1' multiply defined.
 
 
+LaTeX Warning: Label `ling1' multiply defined.
+
+
 LaTeX Warning: Label `ling2' multiply defined.
 
 )
@@ -1474,18 +1477,30 @@ File: Pictures//capitulo.jpg Graphic file (type jpg)
 <use Pictures//capitulo.jpg>
 Package pdftex.def Info: Pictures//capitulo.jpg  used on input line 8.
 (pdftex.def)             Requested size: 597.50787pt x 233.04015pt.
-) (06conclusao.tex [27
+<visualStudioPy.PNG, id=647, 979.40906pt x 578.16pt>
+File: visualStudioPy.PNG Graphic file (type png)
+<use visualStudioPy.PNG>
+Package pdftex.def Info: visualStudioPy.PNG  used on input line 23.
+(pdftex.def)             Requested size: 426.79134pt x 251.93866pt.
 
-] [28
+Underfull \hbox (badness 10000) in paragraph at lines 19--26
 
-]
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27
+
+])
+(06conclusao.tex [28 <./visualStudioPy.PNG>]
 Cap\'{\i }tulo 6.
-<Pictures//Conclusao.jpg, id=655, 289.08pt x 112.7412pt>
+<Pictures//Conclusao.jpg, id=658, 289.08pt x 112.7412pt>
 File: Pictures//Conclusao.jpg Graphic file (type jpg)
 <use Pictures//Conclusao.jpg>
 Package pdftex.def Info: Pictures//Conclusao.jpg  used on input line 8.
 (pdftex.def)             Requested size: 597.50787pt x 233.04076pt.
-<Pictures//Python02.png, id=656, 426.393pt x 142.131pt>
+<Pictures//Python02.png, id=659, 426.393pt x 142.131pt>
 File: Pictures//Python02.png Graphic file (type png)
 <use Pictures//Python02.png>
 Package pdftex.def Info: Pictures//Python02.png  used on input line 23.
@@ -1495,10 +1510,12 @@ Package pdftex.def Info: Pictures//Python02.png  used on input line 23.
 \tf@brf=\write6
 \openout6 = `RicardoWillianPontesdaSilva-Python.brf'.
 
- [29 <./Pictures//Conclusao.jpg> <./Pictures//Python02.png>] [30
+ [29
+
+ <./Pictures//Conclusao.jpg> <./Pictures//Python02.png>] [30
 
 ]
-<Pictures//Bibliografia.png, id=666, 578.16pt x 225.4824pt>
+<Pictures//Bibliografia.png, id=669, 578.16pt x 225.4824pt>
 File: Pictures//Bibliografia.png Graphic file (type png)
 <use Pictures//Bibliografia.png>
 Package pdftex.def Info: Pictures//Bibliografia.png  used on input line 1.
@@ -1516,10 +1533,10 @@ not changed.
 (rerunfilecheck)             Checksum: 9D9F2BC30145479903E034804A433E9A;806.
  ) 
 Here is how much of TeX's memory you used:
- 33889 strings out of 478338
- 658689 string characters out of 2836700
+ 33897 strings out of 478338
+ 658856 string characters out of 2836700
  1287169 words of memory out of 3000000
- 50922 multiletter control sequences out of 15000+600000
+ 50928 multiletter control sequences out of 15000+600000
  562184 words of font info for 322 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,13n,92p,1033b,1896s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1533,10 +1550,10 @@ e1/urw/avantgar/uagk8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmb8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmr8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmri8a.pfb>
-Output written on RicardoWillianPontesdaSilva-Python.pdf (33 pages, 2167322 byt
+Output written on RicardoWillianPontesdaSilva-Python.pdf (33 pages, 2236486 byt
 es).
 PDF statistics:
- 1036 PDF objects out of 1200 (max. 8388607)
- 437 named destinations out of 1000 (max. 500000)
- 100270 words of extra memory for PDF output out of 106986 (max. 10000000)
+ 1039 PDF objects out of 1200 (max. 8388607)
+ 438 named destinations out of 1000 (max. 500000)
+ 100275 words of extra memory for PDF output out of 106986 (max. 10000000)
 
