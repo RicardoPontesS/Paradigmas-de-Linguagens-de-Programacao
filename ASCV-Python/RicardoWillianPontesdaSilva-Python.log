@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.16)  20 NOV 2022 16:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.16)  20 NOV 2022 17:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1483,10 +1483,10 @@ Package pdftex.def Info: Pictures//capitulo.jpg  used on input line 8.
 <visualStudioPy.PNG, id=644, 979.40906pt x 578.16pt>
 File: visualStudioPy.PNG Graphic file (type png)
 <use visualStudioPy.PNG>
-Package pdftex.def Info: visualStudioPy.PNG  used on input line 23.
+Package pdftex.def Info: visualStudioPy.PNG  used on input line 24.
 (pdftex.def)             Requested size: 426.79134pt x 251.93866pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 19--26
+Underfull \hbox (badness 10000) in paragraph at lines 20--27
 
  []
 
@@ -1499,7 +1499,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <git.PNG, id=650, 769.37437pt x 278.54062pt>
 File: git.PNG Graphic file (type png)
 <use git.PNG>
-Package pdftex.def Info: git.PNG  used on input line 39.
+Package pdftex.def Info: git.PNG  used on input line 40.
 (pdftex.def)             Requested size: 426.79134pt x 154.51537pt.
 
 [28 <./visualStudioPy.PNG>]) (06conclusao.tex [29 <./git.PNG>] [30
@@ -1514,7 +1514,7 @@ Package pdftex.def Info: Pictures//Conclusao.jpg  used on input line 8.
 <Pictures//Python02.png, id=670, 426.393pt x 142.131pt>
 File: Pictures//Python02.png Graphic file (type png)
 <use Pictures//Python02.png>
-Package pdftex.def Info: Pictures//Python02.png  used on input line 25.
+Package pdftex.def Info: Pictures//Python02.png  used on input line 19.
 (pdftex.def)             Requested size: 341.43306pt x 113.81337pt.
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1563,7 +1563,7 @@ e1/urw/avantgar/uagk8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmb8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmr8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmri8a.pfb>
-Output written on RicardoWillianPontesdaSilva-Python.pdf (35 pages, 2251661 byt
+Output written on RicardoWillianPontesdaSilva-Python.pdf (35 pages, 2251731 byt
 es).
 PDF statistics:
  1048 PDF objects out of 1200 (max. 8388607)
