@@ -35,6 +35,12 @@
 \contentsline {section}{\numberline {4.3}Programas com Objetos}{23}{section.4.3}%
 \contentsline {section}{\numberline {4.4}O algoritmo Quicksort - Implementa\c {c}\~{a}o}{24}{section.4.4}%
 \contentsline {section}{\numberline {4.5}Aplica\c {c}\~{o}es com Banco de Dados}{25}{section.4.5}%
-\contentsline {chapter}{\textcolor {ocre}{Bibliografia}}{28}{chapter*.2}%
-\contentsline {chapter}{\textcolor {ocre}{Index}}{29}{section*.3}%
+\contentsline {chapter}{\numberline {5}Ferramentas existentes e utilizadas}{27}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Visual Studio }{27}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Compilador XYZ}{27}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Interpretador UVW}{27}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Ambientes de Programa\c {c}\~{a}o IDE MNP}{27}{section.5.4}%
+\contentsline {chapter}{\numberline {6}Conclus\~{o}es}{29}{chapter.6}%
+\contentsline {chapter}{\textcolor {ocre}{Bibliografia}}{32}{chapter*.2}%
+\contentsline {chapter}{\textcolor {ocre}{Index}}{33}{section*.3}%
 \contentsfinish 

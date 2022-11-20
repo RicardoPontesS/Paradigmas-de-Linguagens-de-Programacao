@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.16)  2 NOV 2022 18:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.16)  20 NOV 2022 14:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1117,6 +1117,9 @@ LaTeX Warning: Label `ling1' multiply defined.
 
 LaTeX Warning: Label `ling1' multiply defined.
 
+
+LaTeX Warning: Label `ling2' multiply defined.
+
 )
 \openout1 = `RicardoWillianPontesdaSilva-Python.aux'.
 
@@ -1334,7 +1337,7 @@ LaTeX Font Info:    Font shape `T1/pag/b/n' in size <10.95> not available
 
 [4] (01introducPy.tex
 Cap\'{\i }tulo 1.
-<Pictures//capitulo01.jpg, id=144, 1204.5pt x 469.755pt>
+<Pictures//capitulo01.jpg, id=162, 1204.5pt x 469.755pt>
 File: Pictures//capitulo01.jpg Graphic file (type jpg)
 <use Pictures//capitulo01.jpg>
 Package pdftex.def Info: Pictures//capitulo01.jpg  used on input line 9.
@@ -1343,7 +1346,7 @@ Package pdftex.def Info: Pictures//capitulo01.jpg  used on input line 9.
 
 
  <./Pictures//capitulo01.jpg>]
-<Pictures//python-logo-master-v3-TM.png, id=155, 611.75027pt x 206.63113pt>
+<Pictures//python-logo-master-v3-TM.png, id=173, 611.75027pt x 206.63113pt>
 File: Pictures//python-logo-master-v3-TM.png Graphic file (type png)
 <use Pictures//python-logo-master-v3-TM.png>
 Package pdftex.def Info: Pictures//python-logo-master-v3-TM.png  used on input 
@@ -1367,7 +1370,7 @@ Package fancyhdr Warning: \headheight is too small (14.5pt):
 
 ]
 Cap\'{\i }tulo 2.
-<Pictures//capitulo.jpg, id=180, 903.375pt x 352.31625pt>
+<Pictures//capitulo.jpg, id=198, 903.375pt x 352.31625pt>
 File: Pictures//capitulo.jpg Graphic file (type jpg)
 <use Pictures//capitulo.jpg>
 Package pdftex.def Info: Pictures//capitulo.jpg  used on input line 8.
@@ -1432,18 +1435,18 @@ File: Pictures//capitulo.jpg Graphic file (type jpg)
 Package pdftex.def Info: Pictures//capitulo.jpg  used on input line 9.
 (pdftex.def)             Requested size: 597.50787pt x 233.04015pt.
 [21]
-<operacoesBasicas1.png, id=459, 338.01282pt x 134.75343pt>
+<operacoesBasicas1.png, id=478, 338.01282pt x 134.75343pt>
 File: operacoesBasicas1.png Graphic file (type png)
 <use operacoesBasicas1.png>
 Package pdftex.def Info: operacoesBasicas1.png  used on input line 74.
 (pdftex.def)             Requested size: 256.0748pt x 102.09085pt.
  [22 <./operacoesBasicas1.png>]
-<grafico py.PNG, id=497, 362.85562pt x 282.30469pt>
+<grafico py.PNG, id=516, 362.85562pt x 282.30469pt>
 File: grafico py.PNG Graphic file (type png)
 <use grafico py.PNG>
 Package pdftex.def Info: grafico py.PNG  used on input line 104.
 (pdftex.def)             Requested size: 256.0748pt x 199.23158pt.
-<expobj.PNG, id=498, 374.90062pt x 140.77594pt>
+<expobj.PNG, id=517, 374.90062pt x 140.77594pt>
 File: expobj.PNG Graphic file (type png)
 <use expobj.PNG>
 Package pdftex.def Info: expobj.PNG  used on input line 129.
@@ -1454,34 +1457,55 @@ Overfull \hbox (0.98495pt too wide) in paragraph at lines 163--164
  []
 
 [24 <./expobj.PNG>]
-<quicksort.PNG, id=567, 761.84625pt x 159.59625pt>
+<quicksort.PNG, id=586, 761.84625pt x 159.59625pt>
 File: quicksort.PNG Graphic file (type png)
 <use quicksort.PNG>
 Package pdftex.def Info: quicksort.PNG  used on input line 189.
 (pdftex.def)             Requested size: 256.0748pt x 53.64345pt.
  [25 <./quicksort.PNG>]
-<database.PNG, id=604, 333.49594pt x 225.09094pt>
+<database.PNG, id=623, 333.49594pt x 225.09094pt>
 File: database.PNG Graphic file (type png)
 <use database.PNG>
 Package pdftex.def Info: database.PNG  used on input line 243.
 (pdftex.def)             Requested size: 256.0748pt x 172.84657pt.
-)
-(RicardoWillianPontesdaSilva-Python.bbl (RicardoWillianPontesdaSilva-Python.brf
-)
+) (05ferramentasPy.tex [26 <./database.PNG>]
+Cap\'{\i }tulo 5.
+File: Pictures//capitulo.jpg Graphic file (type jpg)
+<use Pictures//capitulo.jpg>
+Package pdftex.def Info: Pictures//capitulo.jpg  used on input line 8.
+(pdftex.def)             Requested size: 597.50787pt x 233.04015pt.
+) (06conclusao.tex [27
+
+] [28
+
+]
+Cap\'{\i }tulo 6.
+<Pictures//Conclusao.jpg, id=655, 289.08pt x 112.7412pt>
+File: Pictures//Conclusao.jpg Graphic file (type jpg)
+<use Pictures//Conclusao.jpg>
+Package pdftex.def Info: Pictures//Conclusao.jpg  used on input line 8.
+(pdftex.def)             Requested size: 597.50787pt x 233.04076pt.
+<Pictures//Python02.png, id=656, 426.393pt x 142.131pt>
+File: Pictures//Python02.png Graphic file (type png)
+<use Pictures//Python02.png>
+Package pdftex.def Info: Pictures//Python02.png  used on input line 23.
+(pdftex.def)             Requested size: 341.43306pt x 113.81337pt.
+) (RicardoWillianPontesdaSilva-Python.bbl
+(RicardoWillianPontesdaSilva-Python.brf)
 \tf@brf=\write6
 \openout6 = `RicardoWillianPontesdaSilva-Python.brf'.
 
- [26 <./database.PNG>]
-<Pictures//Bibliografia.png, id=628, 578.16pt x 225.4824pt>
+ [29 <./Pictures//Conclusao.jpg> <./Pictures//Python02.png>] [30
+
+]
+<Pictures//Bibliografia.png, id=666, 578.16pt x 225.4824pt>
 File: Pictures//Bibliografia.png Graphic file (type png)
 <use Pictures//Bibliografia.png>
 Package pdftex.def Info: Pictures//Bibliografia.png  used on input line 1.
 (pdftex.def)             Requested size: 597.50787pt x 233.04079pt.
- [27
-
- <./Pictures//Bibliografia.png>]) [28]
+ [31 <./Pictures//Bibliografia.png>]) [32]
 No file RicardoWillianPontesdaSilva-Python.ind.
-(ficha.tex) [29
+(ficha.tex) [33
 
 ] (RicardoWillianPontesdaSilva-Python.aux)
 
@@ -1492,10 +1516,10 @@ not changed.
 (rerunfilecheck)             Checksum: 9D9F2BC30145479903E034804A433E9A;806.
  ) 
 Here is how much of TeX's memory you used:
- 33836 strings out of 478338
- 657492 string characters out of 2836700
+ 33889 strings out of 478338
+ 658689 string characters out of 2836700
  1287169 words of memory out of 3000000
- 50888 multiletter control sequences out of 15000+600000
+ 50922 multiletter control sequences out of 15000+600000
  562184 words of font info for 322 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,13n,92p,1033b,1896s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1509,10 +1533,10 @@ e1/urw/avantgar/uagk8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmb8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmr8a.pfb><C:/Users/ricar/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmri8a.pfb>
-Output written on RicardoWillianPontesdaSilva-Python.pdf (29 pages, 1913529 byt
+Output written on RicardoWillianPontesdaSilva-Python.pdf (33 pages, 2167322 byt
 es).
 PDF statistics:
- 975 PDF objects out of 1000 (max. 8388607)
- 426 named destinations out of 1000 (max. 500000)
- 100212 words of extra memory for PDF output out of 106986 (max. 10000000)
+ 1036 PDF objects out of 1200 (max. 8388607)
+ 437 named destinations out of 1000 (max. 500000)
+ 100270 words of extra memory for PDF output out of 106986 (max. 10000000)
 
